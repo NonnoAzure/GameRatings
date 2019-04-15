@@ -170,3 +170,57 @@ Fortune-499 | 05. | 9.2 | 💗💗
 Wizard of Legend | 05. | 7.9 
 Pillars of Eternity II: Deadfire ?? | 05. | 9.1 | 💙
 
+## 2018.04
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+It Lurks Below | 04. | 8.3 | 💙
+Monster Prom | 04. | 7.3 | 💙
+The Swords of Ditto | 04. | 7.2 
+The Spatials: Galactology | 04. | 7.1
+Frostpunk | 04. | 8.7 | 💙
+Battletech | 04. | 7.9
+Dead in Vinland | 04. | 7.5 
+Minit | 04. | 8.7 | 💙
+
+## 2018.03
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+Long Gone Days | 03. | 7.4 
+Ni no Kuni II: Revenant Kingdom | 03. | 8.5 | 💙
+Far Cry 5 | 03. | 8.4
+Through the Ages | 03. | 8.0 
+Paratopic | 03. | 8.2 
+Surviving Mars | 03. | 7.7 | 💙
+Ghost of a Tale | 03. | 8.3 | 💙
+Northgard | 03. | 7.6 
+Final Fantasy XV | 03. | 8.8 | 💙
+Pit People | 03. | 9.0 | 💗💗
+Where the Water Tastes Like Wine | 03. | 8.4 | 💙
+
+## 2018.02
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+Into the Breach | 02. | 9.4 | 💗💗
+Beckett | 02. | 8.5 | 💙
+Crossing Souls | 02. | 7.8 
+Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 
+All Our Asias | 02. | 7.2 
+Dandara | 02. | 8.0 | 💙
+Rise of Industry | 02. | 7.9 | 💙
+Salt | 02. | 7.3 
+Tangledeep | 02. | 7.7 
+
+## 2018.01
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+DRAGON BALL FighterZ | 01. | 8.0 
+Celeste | 01. | 9.2 | 💙
+Zwei: The Arges Adventure | 01. | 7.9 
+Nantucket | 01. | 
+Subnautica | 01. | 8.7 | 💙
+Iconoclasts | 01. | 7.8 
+The Red Strings Club | 01. | 9.0 | 💙
