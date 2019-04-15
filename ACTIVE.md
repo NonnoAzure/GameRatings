@@ -6,14 +6,14 @@
 
 ## Q & A
 
-### What's the purpose of this?
+#### What's the purpose of this?
 I need to find a certain way to record and order all games I owned and played by release date. Originally it was planned to be updated in my Steam profile but it exceeds the max length of it. In a way, it's only a personal list.
 
-### How much is the full mark of the following scores?
-There can be no manner of doubt about the full mark is 10.
+#### How much is the full mark of the following scores?
+10.
 
-### I'm so angry that you gave my favorite game an unbelievably low mark!
-Just go out and breathe some fresh air.
+#### I'm so angry that you gave my favorite game an unbelievably low mark!
+Sorry...
 
 ---
 
