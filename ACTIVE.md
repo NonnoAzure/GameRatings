@@ -1,7 +1,9 @@
 # My Subjective Ratings of PC Games
 
-- Ordered by released date
-- Only include the game I owned and played
+- Ordered by released date.
+- Extremly subjective!
+- Only include the game I owned and played.
+- Keep updating.
 
 ## 2019.03
 
