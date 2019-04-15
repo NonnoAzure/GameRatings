@@ -30,7 +30,7 @@ Forager | 4.18| [day one]
 Anno 1800 | 04.16 | [purchased]
 Heaven's Vault | 04.16 | [day one]
 One Finger Death Punch 2 | 04.15 | [day one]
-Staxel | 04.12 | 7.0
+Staxel | 04.12 | 7.1
 Weedcraft Inc | 04.11 |
 Pathway | 04.11 | 6.9
 元能失控 | 04.11 |
@@ -70,7 +70,7 @@ Ape Out | 03.01 | 8.3
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 DiRT Rally 2.0 | 02.26
-Touhou Luna Nights | 02.26 | 6.9
+Touhou Luna Nights | 02.26 | 7.0
 Anthem | 02.22 | 7.6
 Devotion 还愿 | 02.19 | 7.9 | 💙
 Metro Exodus | 02.15 | 9.6 | 💗💗
@@ -88,7 +88,7 @@ Sunless Skies | 02.01 | 8.3 | 💙
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Himeko Sutori | 01.31 | 
-Subnautica: Below Zero | 01.31 | 7.7 | 💙
+Subnautica: Below Zero | 01.31 | 7.6 | 💙
 Volcanoids | 01.30 | 6.8
 Resident Evil 2 RE | 01.25 | 9.1 | 💗💗
 Life is Strange 2 Episode 2 | 01.25 | 7.6
@@ -167,15 +167,15 @@ Slipstream | 05. | 7.5
 Forgotton Anne | 05. | 7.6
 FAR: Lone Sails | 05. | 8.6 | 💙
 Fortune-499 | 05. | 9.2 | 💗💗
-Wizard of Legend | 05. | 7.9 
+Wizard of Legend | 05. | 7.8 
 Pillars of Eternity II: Deadfire ?? | 05. | 9.1 | 💙
 
 ## 2018.04
 
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
-It Lurks Below | 04. | 8.3 | 💙
-Monster Prom | 04. | 7.3 | 💙
+It Lurks Below | 04. | 8.3
+Monster Prom | 04. | 7.3
 The Swords of Ditto | 04. | 7.2 
 The Spatials: Galactology | 04. | 7.1
 Frostpunk | 04. | 8.7 | 💙
@@ -187,15 +187,15 @@ Minit | 04. | 8.7 | 💙
 
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
-Long Gone Days | 03. | 7.4 
+Long Gone Days | 03. | 7.0 
 Ni no Kuni II: Revenant Kingdom | 03. | 8.5 | 💙
-Far Cry 5 | 03. | 8.4
+Far Cry 5 | 03. | 8.3
 Through the Ages | 03. | 8.0 
 Paratopic | 03. | 8.2 
 Surviving Mars | 03. | 7.7 | 💙
-Ghost of a Tale | 03. | 8.3 | 💙
+Ghost of a Tale | 03. | 8.1 | 💙
 Northgard | 03. | 7.6 
-Final Fantasy XV | 03. | 8.8 | 💙
+Final Fantasy XV | 03. | 8.7 | 💙
 Pit People | 03. | 9.0 | 💗💗
 Where the Water Tastes Like Wine | 03. | 8.4 | 💙
 
@@ -205,12 +205,12 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Into the Breach | 02. | 9.4 | 💗💗
 Beckett | 02. | 8.5 | 💙
-Crossing Souls | 02. | 7.8 
+Crossing Souls | 02. | 7.5 
 Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 
 All Our Asias | 02. | 7.2 
 Dandara | 02. | 8.0 | 💙
 Rise of Industry | 02. | 7.9 | 💙
-Salt | 02. | 7.3 
+Salt | 02. | 7.0 
 Tangledeep | 02. | 7.7 
 
 ## 2018.01
@@ -219,8 +219,8 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 DRAGON BALL FighterZ | 01. | 8.0 
 Celeste | 01. | 9.2 | 💙
-Zwei: The Arges Adventure | 01. | 7.9 
+Zwei: The Arges Adventure | 01. | 7.7 
 Nantucket | 01. | 
-Subnautica | 01. | 8.7 | 💙
+Subnautica | 01. | 8.6 | 💙
 Iconoclasts | 01. | 7.8 
 The Red Strings Club | 01. | 9.0 | 💙
