@@ -90,7 +90,7 @@ Game Title|Released Date|Rating|Favorite
 Himeko Sutori | 01.31 | 
 Subnautica: Below Zero | 01.31 | 7.6 | 💙
 Volcanoids | 01.30 | 6.8
-Resident Evil 2 RE | 01.25 | 9.2 | 💗💗
+Resident Evil 2 RE | 01.25 | 9.3 | 💗💗
 Life is Strange 2 Episode 2 | 01.25 | 7.6
 Pikuniku | 01.25 | 
 At the Gates | 01.24 | 
