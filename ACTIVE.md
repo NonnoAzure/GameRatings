@@ -1,4 +1,7 @@
-# GameRatings
+# My Subjective Ratings of PC Games
+
+- Ordered by released date
+- Only include the game I owned and played
 
 ## 2019.03
 
