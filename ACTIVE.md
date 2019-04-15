@@ -199,7 +199,7 @@ It Lurks Below | 04. | 8.3
 Monster Prom | 04. | 7.3
 The Swords of Ditto | 04. | 7.2 
 The Spatials: Galactology | 04. | 7.1
-Frostpunk | 04. | 8.7 | 💙
+Frostpunk | 04. | 8.8 | 💙
 Battletech | 04. | 7.9
 Dead in Vinland | 04. | 7.5 
 Minit | 04. | 8.7 | 💙
