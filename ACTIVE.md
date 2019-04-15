@@ -3,7 +3,7 @@
 ## 2019.03
 
 Game Title|Released Date|Rating
--|:-:|:-:
+:-|:-:|:-:
 Tropico 6 | 03.30 | 
 Dead Cells: Rise of the Giant | 03.29 | 7.3
 Risk of Rain 2 | 03.29 | 8.2
@@ -29,7 +29,7 @@ Ape Out | 03.01 | 8.3
 ## 2019.02
 
 Game Title|Released Date|Rating
--|:-:|:-:
+:-|:-:|:-:
 DiRT Rally 2.0 | 02.26
 Touhou Luna Nights | 02.26 | 6.9
 Anthem | 02.22 | 7.6
@@ -47,7 +47,7 @@ Sunless Skies | 02.01 | 8.3
 ## 2019.01
 
 Game Title|Released Date|Rating
--|:-:|:-:
+:-|:-:|:-:
 Himeko Sutori | 01.31 | ?
 Subnautica: Below Zero | 01.31 |7.7
 Volcanoids | 01.30 | 6.8
@@ -65,5 +65,5 @@ Odd Realm | 01.11 | 7.0
 ## 2018.12
 
 Game Title|Released Date|Rating
--|:-:|:-:
+:-|:-:|:-:
 DUSK | 2018.12.11 | 9.3
