@@ -32,12 +32,12 @@ Heaven's Vault | 04.16 | [day one]
 One Finger Death Punch 2 | 04.15 | [day one]
 Staxel | 04.12 | 7.1
 Weedcraft Inc | 04.11 |
-Pathway | 04.11 | 6.9
+Pathway | 04.11 | 7.0
 元能失控 | 04.11 |
 Zanki Zero: Last Beginning | 04.10
 Islanders | 04.04 |
 Jetstream | 04.02 |
-Totally Accurate Battle Simulator | 04.01 | 6.8
+Totally Accurate Battle Simulator | 04.01 | 6.9
 
 ## 2019.03
 
