@@ -132,8 +132,8 @@ This Is the Police 2 | 08. | 9.0 | 💙
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Chasm | 07. | 
-La-Mulana 2 | 07. | 8.5
-The Banner Saga 3 | 07. | 8.6
+La-Mulana 2 | 07. | 8.5 | 💙
+The Banner Saga 3 | 07. | 8.6 | 💙
 Stonehearth | 07. | 7.7 
 GNOG | 07. | 
 Dig or Die | 07. | 8.1 
@@ -147,7 +147,7 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 The Crew 2 | 06. | 7.3
 Darkest Dungeon: The Color Of Madness | 06. | 8.2 
-Jurassic World Evolution | 06. | 6.9 
+Jurassic World Evolution | 06. | 6.9
 Vampyr | 06. | 7.4
 Cultist Simulator ?? | 06. | 9.1 | 💗💗
 Just Shapes & Beats | 06. | 
