@@ -36,25 +36,25 @@ Anthem | 02.22 | 7.6
 Devotion 还愿 | 02.19 | 7.9
 Metro Exodus | 02.15 | 9.6
 Enderal: Forgotten Stories | 02.15 | 8.2
-The Textorcist | 02.15 | ?
+The Textorcist | 02.15 | 
 Civilization VI: Gathering Storm | 02.15 | 8.0
 Eastshade | 02.13 | 8.0
 Foundation | 02.01 | 7.1
 Wargroove | 02.01 | 8.1
-Praey for the Gods | 02.01 | ?
+Praey for the Gods | 02.01 | 
 Sunless Skies | 02.01 | 8.3
 
 ## 2019.01
 
 Game Title|Released Date|Rating
 :-|:-:|:-:
-Himeko Sutori | 01.31 | ?
+Himeko Sutori | 01.31 | 
 Subnautica: Below Zero | 01.31 |7.7
 Volcanoids | 01.30 | 6.8
 Resident Evil 2 RE | 01.25 | 9.1
 Life is Strange 2 Episode 2 | 01.25 | 7.6
-Pikuniku | 01.25 | ?
-At the Gates | 01.24 | ?
+Pikuniku | 01.25 | 
+At the Gates | 01.24 | 
 隐形守护者 | 01.23 | 7.3
 Unruly Heroes | 01.23 | 7.4
 Slay the Spire | 01.23 | 8.8
@@ -66,4 +66,4 @@ Odd Realm | 01.11 | 7.0
 
 Game Title|Released Date|Rating
 :-|:-:|:-:
-DUSK | 2018.12.11 | 9.3
+DUSK | 12.11 | 9.3
