@@ -2,7 +2,7 @@
 
 - Ordered by released date.
 - Extremly subjective!
-- Only include the game I owned and played.
+- Only list games I owned and played.
 
 ## Q & A
 
