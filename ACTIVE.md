@@ -109,6 +109,27 @@ DUSK | 12.11 | 9.3 | 💗💗
 
 ---
 
+## 2018.09
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+Bad North | 09. | 
+Kingdom Rush Origins | 09. | 8.1
+Killer 7 | 09. | 
+Life is Strange 2 | 09. | 8.3
+Timespinner | 09. | 
+Parkasaurus | 09. | 8.2
+Underhero  | 09. | 7.4
+Pathfinder: Kingmaker | 09. | 8.0
+DRAGON QUEST XI: Echoes of an Elusive Age | 09. | 8.7 | 💙 
+CrossCode | 09. | 7.8
+Shadow of the Tomb Raider | 09. | 8.4
+NBA 2K19 | 09. | 8.0
+428: Shibuya Scramble | 09. | 
+Planet Alpha | 09. | 
+The Messenger | 09. | 9.1 | 💙
+Shadows: Awakening | 09. | 7.5 
+
 ## 2018.08
 
 Game Title|Released Date|Rating|Favorite
@@ -188,7 +209,7 @@ Minit | 04. | 8.7 | 💙
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Long Gone Days | 03. | 7.0 
-Ni no Kuni II: Revenant Kingdom | 03. | 8.5 | 💙
+Ni no Kuni II: Revenant Kingdom | 03. | 7.3
 Far Cry 5 | 03. | 8.3
 Through the Ages | 03. | 8.0 
 Paratopic | 03. | 8.2 
