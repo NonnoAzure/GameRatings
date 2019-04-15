@@ -106,3 +106,24 @@ Odd Realm | 01.11 | 7.0
 Game Title|Released Date|Rating
 :-|:-:|:-:
 DUSK | 12.11 | 9.3
+
+... (editing)
+
+## 2018.09
+
+Game Title|Released Date|Rating
+:-|:-:|:-:
+Two Point Hospital|08.|8.0 
+Strange Brigade|08.|
+The Universim|08.|7.6 
+Phantom Doctrine|08.|
+Forged Battalion|08.|6.7 
+Death's Gambit|08.|7.9 
+We Happy Few|08.|8.2 
+EXAPUNKS|08.|8.6 
+Guacamelee! 2|08.|
+Monster Hunter: World|08.|8.8 
+Overcooked! 2|08.|
+Yakuza 0|08.|
+This Is the Police 2 |08.|8.9 
+
