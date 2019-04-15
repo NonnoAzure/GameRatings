@@ -17,6 +17,28 @@ Sorry...
 
 ---
 
+## 2019.04
+
+Game Title|Released Date|Rating
+:-|:-:|:-:
+soko loco deluxe | 04.? |[day one]
+Lorelai | 04.? | [day one]
+Imperator Rome | 04.26 | [purchased]
+Sigma Theory | 04.19 |
+Katana Zero | 04.18 | [day one]
+Forager | 4.18| [day one]
+Anno 1800 | 04.16 | [purchased]
+Heaven's Vault | 04.16 | [day one]
+One Finger Death Punch 2 | 04.15 | [day one]
+Staxel | 04.12 | 7.0
+Weedcraft Inc | 04.11 |
+Pathway | 04.11 | 6.9
+元能失控 | 04.11 |
+Zanki Zero: Last Beginning | 04.10
+Islanders | 04.04 |
+Jetstream | 04.02 |
+Totally Accurate Battle Simulator | 04.01 | 6.8
+
 ## 2019.03
 
 Game Title|Released Date|Rating
