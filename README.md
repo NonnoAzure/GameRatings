@@ -1,10 +1,15 @@
 # GameRatings
 
 Tropico 6 - 03.30
+
 Dead Cells: Rise of the Giant - 03.29 - 7️⃣ 7.3
+
 Risk of Rain 2 - 03.29 - 8️⃣ 8.2
+
 Grim Dawn: Forgotten Gods - 03.28 - 7️⃣ 7.5
+
 Assassin's Creed 3 Remastered - 03.27 - 7️⃣ 7.7
+
 Outward - 03.26
 We. The Revolution - 03.21
 Sekiro: Shadows Die Twice - 03.21 - 💙9️⃣ 9.5
