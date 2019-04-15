@@ -10,7 +10,7 @@
 I need to find a certain way to record and order all games I owned and played by release date. Originally it was planned to be updated in my Steam profile but it exceeds the max length of it. In a way, it's only a personal list.
 
 #### How much is the full mark of the following scores?
-10.
+10
 
 #### I'm so angry that you gave my favorite game an unbelievably low mark!
 Sorry...
