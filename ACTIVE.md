@@ -125,5 +125,5 @@ Guacamelee! 2 | 08. | 8.4 | 💙
 Monster Hunter: World | 08. | 8.5 
 Overcooked! 2 | 08. | 
 Yakuza 0 | 08. | 8.8 | 💙
-This Is the Police 2 | 08. | 9.0 | 💗💗
+This Is the Police 2 | 08. | 9.0 | 💙
 
