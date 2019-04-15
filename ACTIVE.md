@@ -107,9 +107,9 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 DUSK | 12.11 | 9.3 | 💗💗
 
-... (editing)
+---
 
-## 2018.09
+## 2018.08
 
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
@@ -126,4 +126,47 @@ Monster Hunter: World | 08. | 8.5
 Overcooked! 2 | 08. | 
 Yakuza 0 | 08. | 8.8 | 💙
 This Is the Police 2 | 08. | 9.0 | 💙
+
+## 2018.07
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+Chasm | 07. | 
+La-Mulana 2 | 07. | 8.5
+The Banner Saga 3 | 07. | 8.6
+Stonehearth | 07. | 7.7 
+GNOG | 07. | 
+Dig or Die | 07. | 8.1 
+Clicker Heroes 2 | 07. | 
+Dungeon Warfare 2 | 07. | 
+New Ice York | 07. | 5.8 | 💩
+
+## 2018.06
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+The Crew 2 | 06. | 7.3
+Darkest Dungeon: The Color Of Madness | 06. | 8.2 
+Jurassic World Evolution | 06. | 6.9 
+Vampyr | 06. | 7.4
+Cultist Simulator ?? | 06. | 9.1 | 💗💗
+Just Shapes & Beats | 06. | 
+Smoke and Sacrifice | 06. | 7.0
+The Piano | 06. | 4.9 | 💩
+
+## 2018.05
+
+Game Title|Released Date|Rating|Favorite
+:-|:-:|:-:|:-:
+Moonlighter | 05. | 
+Dark Souls: Remastered | 05. | 9.4 | 💗💗
+Siralim 3 | 05. | 
+Bloodstained: Curse of the Moon | 05. | 
+Unforeseen Incidents | 05. | 
+Slipstream | 05. | 7.5
+Forgotton Anne | 05. | 7.6
+FAR: Lone Sails | 05. | 8.6 | 💙
+Fortune-499 | 05. | 9.2 | 💗💗
+Wizard of Legend | 05. | 7.9 
+Pillars of Eternity II: Deadfire ?? | 05. | 9.1 | 💙
 
