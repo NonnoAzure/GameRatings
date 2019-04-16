@@ -22,7 +22,7 @@ Forager | 4.18| [day one]
 Anno 1800 | 04.16 | [purchased]
 Heaven's Vault | 04.16 | [day one]
 One Finger Death Punch 2 | 04.15 | [day one]
-Staxel | 04.12 | 7.1
+Staxel | 04.12 | 7.2
 Weedcraft Inc | 04.11 |
 Pathway | 04.11 | 7.0
 元能失控 | 04.11 |
@@ -162,7 +162,7 @@ The Crew 2 | 06. | 7.3
 Darkest Dungeon: The Color Of Madness | 06. | 8.2 
 Jurassic World Evolution | 06. | 6.9
 Vampyr | 06. | 7.4
-Cultist Simulator ?? | 06. | 9.1 | 💗💗
+Cultist Simulator | 06. | 9.1 | 💗💗
 Just Shapes & Beats | 06. | 
 Smoke and Sacrifice | 06. | 7.0
 The Piano | 06. | 4.9 | 💩
@@ -181,7 +181,7 @@ Forgotton Anne | 05. | 7.6
 FAR: Lone Sails | 05. | 8.6 | 💙
 Fortune-499 | 05. | 9.2 | 💗💗
 Wizard of Legend | 05. | 7.8 
-Pillars of Eternity II: Deadfire ?? | 05. | 9.1 | 💙
+Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙
 
 ## 2018.04
 
