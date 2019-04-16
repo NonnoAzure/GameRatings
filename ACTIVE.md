@@ -29,7 +29,7 @@ Pathway | 04.11 | 7.0
 Zanki Zero: Last Beginning | 04.10
 Islanders | 04.04 |
 Jetstream | 04.02 |
-Totally Accurate Battle Simulator | 04.01 | 6.9
+Totally Accurate Battle Simulator | 04.01 | 6.8
 
 ## 2019.03
 
@@ -37,7 +37,7 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Tropico 6 | 03.30 | 
 Dead Cells: Rise of the Giant | 03.29 | 7.3
-Risk of Rain 2 | 03.29 | 8.2 | 💙
+Risk of Rain 2 | 03.29 | 8.4 | 💙
 Grim Dawn: Forgotten Gods | 03.28 | 7.5
 Assassin's Creed 3 Remastered | 03.27 | 7.7
 Outward | 03.26
@@ -48,7 +48,7 @@ Baba is You | 03.14 | 9.1 | 💗💗
 Hypnospace Outlaw | 03.12
 Truberbrook | 03.12
 Factory Town | 03.12 | 7.7 | 💙
-Devil May Cry 5 | 03.08 | 8.2
+Devil May Cry 5 | 03.08 | 8.5
 7th Sector | 03.06 | 7.6
 The Occupation | 03.05 | 7.4
 When the Darkness comes | 03.04 | 6.5
@@ -80,7 +80,7 @@ Sunless Skies | 02.01 | 8.3 | 💙
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Himeko Sutori | 01.31 | 
-Subnautica: Below Zero | 01.31 | 7.6 | 💙
+Subnautica: Below Zero | 01.31 | 7.5
 Volcanoids | 01.30 | 6.8
 Resident Evil 2 RE | 01.25 | 9.3 | 💗💗
 Life is Strange 2 Episode 2 | 01.25 | 7.6
