@@ -19,7 +19,7 @@ Imperator Rome | 04.26 | [purchased]
 Sigma Theory | 04.19 |
 Katana Zero | 04.18 | [day one]
 Forager | 4.18| [day one]
-Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/631570/header_292x136.jpg">
+Whispers of a Machine | 04.17 | | | <img src="https://media.st.dl.bscstorage.net/steam/apps/631570/capsule_sm_120.jpg">
 Heaven's Vault | 04.16 | ?
 Anno 1800 | 04.16 | 8.3 | 💙
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙
