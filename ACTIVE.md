@@ -19,9 +19,9 @@ Imperator Rome | 04.26 | [purchased]
 Sigma Theory | 04.19 |
 Katana Zero | 04.18 | [day one]
 Forager | 4.18| [day one]
-Anno 1800 | 04.16 | [purchased]
-Heaven's Vault | 04.16 | [day one]
-One Finger Death Punch 2 | 04.15 | [day one]
+Heaven's Vault | 04.16 | ?
+Anno 1800 | 04.16 | 8.3 | 💙
+One Finger Death Punch 2 | 04.15 | 8.0 | 💙
 Staxel | 04.12 | 7.2
 Weedcraft Inc | 04.11 |
 Pathway | 04.11 | 7.0
