@@ -11,14 +11,15 @@ I need to find a certain way to record and order all games I owned and played by
 
 ## 2019.04
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 soko loco deluxe | 04.? |[day one]
 Lorelai | 04.? | [day one]
 Imperator Rome | 04.26 | [purchased]
 Sigma Theory | 04.19 |
 Katana Zero | 04.18 | [day one]
 Forager | 4.18| [day one]
+Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/631570/header_292x136.jpg">
 Heaven's Vault | 04.16 | ?
 Anno 1800 | 04.16 | 8.3 | 💙
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙
