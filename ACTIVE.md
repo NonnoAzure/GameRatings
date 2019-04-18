@@ -23,14 +23,14 @@ Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/st
 Heaven's Vault | 04.16 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
 Anno 1800 | 04.16 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/916440/header_292x136.jpg">
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/980300/header_292x136.jpg">
-Staxel | 04.12 | 7.2
-Weedcraft Inc | 04.11 |
-Pathway | 04.11 | 7.1
-元能失控 | 04.11 |
+Staxel | 04.12 | 7.2 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/405710/header_292x136.jpg">
+Weedcraft Inc | 04.11 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/622720/header_292x136.jpg">
+Pathway | 04.11 | 7.1 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/546430/header_292x136.jpg">
+元能失控 | 04.11 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/698870/header_292x136.jpg">
 Zanki Zero: Last Beginning | 04.10
 Islanders | 04.04 |
 Jetstream | 04.02 |
-Totally Accurate Battle Simulator | 04.01 | 6.8
+Totally Accurate Battle Simulator | 04.01 | 6.8 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/508440/header_292x136.jpg">
 
 ## 2019.03
 
