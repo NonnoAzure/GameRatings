@@ -16,9 +16,9 @@ Game Title|Released Date|Rating|Favorite|Captain
 soko loco deluxe | 04.? |[day one]
 Lorelai | 04.? | [day one]
 Imperator Rome | 04.26 | [purchased]
-Sigma Theory | 04.19 |
-Katana Zero | 04.18 | [day one]
-Forager | 4.18| [day one]
+Sigma Theory | 04.19 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/716640/header_292x136.jpg">
+Forager | 04.18 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
+Katana Zero | 04.18 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
 Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/631570/header_292x136.jpg">
 Heaven's Vault | 04.16 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
 Anno 1800 | 04.16 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/916440/header_292x136.jpg">
