@@ -46,7 +46,7 @@ Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Tropico 6 | 03.30 | 
 Dead Cells: Rise of the Giant | 03.29 | 7.3
-Risk of Rain 2 | 03.29 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632360/header_292x136.jpg">
+Risk of Rain 2 | 03.29 | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632360/header_292x136.jpg">
 Grim Dawn: Forgotten Gods | 03.28 | 7.5
 Assassin's Creed 3 Remastered | 03.27 | 7.7
 Outward | 03.26
@@ -113,7 +113,7 @@ Odd Realm | 01.11 | 7.1
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Below | 12.14 | 8.1
+Below | 12.14 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/250680/header_292x136.jpg">
 GRIS | 12.13 | 7.8
 Insurgency: Sandstorm | 12.12
 DUSK | 12.11 | 9.3 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/519860/header_292x136.jpg">
@@ -127,7 +127,7 @@ X4: Foundations | 12.01
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Artifact | 11.29 | 8.2
+Artifact | 11.29 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/583950/header_292x136.jpg">
 蓝宝石般的被害妄想少女 | 11.28 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/970510/header_292x136.jpg">
 Darksiders 3 | 11.28
 Farming Simulator 19 | 11.21
@@ -202,12 +202,12 @@ Phantom Doctrine | 08. |
 Forged Battalion | 08. | 6.3 
 Death's Gambit | 08. | 7.5 
 We Happy Few | 08. | 8.0 
-EXAPUNKS | 08. | 8.9 | 💗💗
-Guacamelee! 2 | 08. | 8.4 | 💙
+EXAPUNKS | 08. | 8.9 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/716490/header_292x136.jpg">
+Guacamelee! 2 | 08. | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/534550/header_292x136.jpg">
 Monster Hunter: World | 08. | 8.5 
 Overcooked! 2 | 08. | 
-Yakuza 0 | 08. | 8.8 | 💙
-This Is the Police 2 | 08. | 9.0 | 💙
+Yakuza 0 | 08. | 8.8 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/638970/header_292x136.jpg">
+This Is the Police 2 | 08. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/785740/header_292x136.jpg">
 
 ## 2018.07
 
