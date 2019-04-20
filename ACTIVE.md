@@ -19,25 +19,26 @@ Imperator Rome | 04.26 | [purchased]
 Dark Devotion| 04.25 |
 Zombotron | 04.22 |
 Courier of the Crypts | 4.19 | 
-Forager | 04.18 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
+Forager | 04.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
 Embark | 4.19 | 
 Save Koch | 4.18 | 
 God's Trigger | 4.18 | 
-Katana Zero | 04.18 | 8.2 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
-Sigma Theory | 04.19 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/716640/header_292x136.jpg">
+Katana Zero | 04.18 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
+Sigma Theory | 04.19 | | | 716640
 Bossgard | 04.18 | 
-Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/631570/header_292x136.jpg">
-Heaven's Vault | 04.16 | 7.9 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
+Whispers of a Machine | 04.17 | | | 631570
+Heaven's Vault | 04.16 | 8.0 | | 774201
 Anno 1800 | 04.16 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/916440/header_292x136.jpg">
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/980300/header_292x136.jpg">
-Staxel | 04.12 | 7.2 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/405710/header_292x136.jpg">
-Weedcraft Inc | 04.11 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/622720/header_292x136.jpg">
-Pathway | 04.11 | 7.1 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/546430/header_292x136.jpg">
-元能失控 | 04.11 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/698870/header_292x136.jpg">
+Staxel | 04.12 | 7.2 | | 405710
+Weedcraft Inc | 04.11 | | | 622720
+Pathway | 04.11 | 7.1 | | 546430
+元能失控 | 04.11 | | | 698870
 Zanki Zero: Last Beginning | 04.10
+Supraland | 04.05 |
 Islanders | 04.04 |
 Jetstream | 04.02 |
-Totally Accurate Battle Simulator | 04.01 | 6.8 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/508440/header_292x136.jpg">
+Totally Accurate Battle Simulator | 04.01 | 6.8 | | 508440
 
 ## 2019.03
 
@@ -45,18 +46,18 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Tropico 6 | 03.30 | 
 Dead Cells: Rise of the Giant | 03.29 | 7.3
-Risk of Rain 2 | 03.29 | 8.4 | 💙
+Risk of Rain 2 | 03.29 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632360/header_292x136.jpg">
 Grim Dawn: Forgotten Gods | 03.28 | 7.5
 Assassin's Creed 3 Remastered | 03.27 | 7.7
 Outward | 03.26
 We. The Revolution | 03.21
-Sekiro: Shadows Die Twice | 03.21 | 9.5 | 💗💗
+Sekiro: Shadows Die Twice | 03.21 | 9.5 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/814380/header_292x136.jpg">
 The Division 2 | 03.15 | 
 Soviet Republic | 03.15 | 7.1
-Baba is You | 03.14 | 9.1 | 💗💗
+Baba is You | 03.14 | 9.1 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header_292x136.jpg">
 Hypnospace Outlaw | 03.12
 Truberbrook | 03.12
-Factory Town | 03.12 | 7.7 | 💙
+Factory Town | 03.12 | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/860890/header_292x136.jpg">
 Devil May Cry 5 | 03.08 | 8.5
 7th Sector | 03.06 | 7.6
 The Occupation | 03.05 | 7.2
@@ -75,17 +76,17 @@ DiRT Rally 2.0 | 02.26
 Touhou Luna Nights | 02.26 | 7.2
 Anthem | 02.22 | 7.6
 Devotion 还愿 | 02.19 | 7.9 | 💙
-Metro Exodus | 02.15 | 9.6 | 💗💗
+Metro Exodus | 02.15 | 9.6 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/412020/header_292x136.jpg">
 Enderal: Forgotten Stories | 02.15 | 8.2
 The Textorcist | 02.15 | 
 Civilization VI: Gathering Storm | 02.15 | 8.0
 Far Cry: New Dawn | 02.15 | 
 Element: Space | 02.14 | 6.0
-Eastshade | 02.13 | 8.1 | 💙
+Eastshade | 02.13 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/715560/header_292x136.jpg">
 Foundation | 02.01 | 7.1
 Wargroove | 02.01 | 8.2
 Praey for the Gods | 02.01 | 
-Sunless Skies | 02.01 | 8.7 | 💙
+Sunless Skies | 02.01 | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/596970/header_292x136.jpg">
 
 ## 2019.01
 
