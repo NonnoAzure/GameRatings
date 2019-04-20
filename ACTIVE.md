@@ -23,7 +23,7 @@ Forager | 04.18 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/a
 Embark | 4.19 | 
 Save Koch | 4.18 | 
 God's Trigger | 4.18 | 
-Katana Zero | 04.18 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
+Katana Zero | 04.18 | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
 Sigma Theory | 04.19 | | | 716640
 Bossgard | 04.18 | 
 Whispers of a Machine | 04.17 | | | 631570
