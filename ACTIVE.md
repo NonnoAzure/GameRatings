@@ -5,7 +5,7 @@
 - Only list games I owned and played.
 
 ### What's the purpose of this?
-I need to find a certain way to record and order all games I owned and played by release date. Originally it was planned to be updated in my Steam profile but it exceeds the max length of it. In a way, it's only a personal list.
+I'd like to find a certain way to record and order all games I owned and played by release date. Originally it was planned to be updated in my Steam profile but it exceeds the max length of it. In a way, it's only a personal list.
 
 ---
 
