@@ -42,8 +42,8 @@ Totally Accurate Battle Simulator | 04.01 | 6.8 | | 508440
 
 ## 2019.03
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Tropico 6 | 03.30 | 
 Dead Cells: Rise of the Giant | 03.29 | 7.3
 Risk of Rain 2 | 03.29 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632360/header_292x136.jpg">
@@ -70,8 +70,8 @@ Ape Out | 03.01 | 8.3
 
 ## 2019.02
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 DiRT Rally 2.0 | 02.26
 Touhou Luna Nights | 02.26 | 7.2
 Anthem | 02.22 | 7.6
@@ -90,8 +90,8 @@ Sunless Skies | 02.01 | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/s
 
 ## 2019.01
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Himeko Sutori | 01.31 | 
 Subnautica: Below Zero | 01.31 | 7.5
 Volcanoids | 01.30 | 6.8
