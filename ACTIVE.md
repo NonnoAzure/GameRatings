@@ -14,13 +14,20 @@ I need to find a certain way to record and order all games I owned and played by
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 soko loco deluxe | 04.? |[day one]
-Lorelai | 04.? | [day one]
+Lorelai | 04.27 | [day one]
 Imperator Rome | 04.26 | [purchased]
+Dark Devotion| 04.25 |
+Zombotron | 04.22 |
+Courier of the Crypts | 4.19 | 
+Forager | 04.18 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
+Embark | 4.19 | 
+Save Koch | 4.18 | 
+God's Trigger | 4.18 | 
+Katana Zero | 04.18 | 8.2 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
 Sigma Theory | 04.19 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/716640/header_292x136.jpg">
-Forager | 04.18 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
-Katana Zero | 04.18 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/460950/header_292x136.jpg">
+Bossgard | 04.18 | 
 Whispers of a Machine | 04.17 | | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/631570/header_292x136.jpg">
-Heaven's Vault | 04.16 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
+Heaven's Vault | 04.16 | 7.9 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
 Anno 1800 | 04.16 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/916440/header_292x136.jpg">
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/980300/header_292x136.jpg">
 Staxel | 04.12 | 7.2 | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/405710/header_292x136.jpg">
@@ -65,7 +72,7 @@ Ape Out | 03.01 | 8.3
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 DiRT Rally 2.0 | 02.26
-Touhou Luna Nights | 02.26 | 7.0
+Touhou Luna Nights | 02.26 | 7.2
 Anthem | 02.22 | 7.6
 Devotion 还愿 | 02.19 | 7.9 | 💙
 Metro Exodus | 02.15 | 9.6 | 💗💗
@@ -73,6 +80,7 @@ Enderal: Forgotten Stories | 02.15 | 8.2
 The Textorcist | 02.15 | 
 Civilization VI: Gathering Storm | 02.15 | 8.0
 Far Cry: New Dawn | 02.15 | 
+Element: Space | 02.14 | 6.0
 Eastshade | 02.13 | 8.1 | 💙
 Foundation | 02.01 | 7.1
 Wargroove | 02.01 | 8.2
@@ -98,7 +106,7 @@ The Hong Kong Massacre | 01.22 |
 Demon's Tilt | 01.22 |
 Feudal Alloy | 01.18 | 6.5
 Meeple Station | 01.17 | 6.1
-Odd Realm | 01.11 | 7.0
+Odd Realm | 01.11 | 7.1
 
 ## 2018.12
 
