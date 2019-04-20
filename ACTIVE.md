@@ -54,7 +54,7 @@ We. The Revolution | 03.21
 Sekiro: Shadows Die Twice | 03.21 | 9.5 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/814380/header_292x136.jpg">
 The Division 2 | 03.15 | 
 Soviet Republic | 03.15 | 7.1
-Baba is You | 03.14 | 9.1 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header_292x136.jpg">
+Baba is You | 03.14 | 9.2 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/736260/header_292x136.jpg">
 Hypnospace Outlaw | 03.12
 Truberbrook | 03.12
 Factory Town | 03.12 | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/860890/header_292x136.jpg">
@@ -75,7 +75,7 @@ Game Title|Released Date|Rating|Favorite|Captain
 DiRT Rally 2.0 | 02.26
 Touhou Luna Nights | 02.26 | 7.2
 Anthem | 02.22 | 7.6
-Devotion 还愿 | 02.19 | 7.9 | 💙
+Devotion 还愿 | 02.19 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1006510/header_292x136.jpg">
 Metro Exodus | 02.15 | 9.6 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/412020/header_292x136.jpg">
 Enderal: Forgotten Stories | 02.15 | 8.2
 The Textorcist | 02.15 | 
@@ -95,14 +95,14 @@ Game Title|Released Date|Rating|Favorite|Captain
 Himeko Sutori | 01.31 | 
 Subnautica: Below Zero | 01.31 | 7.5
 Volcanoids | 01.30 | 6.8
-Resident Evil 2 RE | 01.25 | 9.3 | 💗💗
+Resident Evil 2 RE | 01.25 | 9.4 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/883710/header_292x136.jpg">
 Life is Strange 2 Episode 2 | 01.25 | 7.4
 Battlefleet Gothic: Armada 2 | 01.25 | 7.1
 Pikuniku | 01.25 | 
 At the Gates | 01.24 | 
 隐形守护者 | 01.23 | 7.3
 Unruly Heroes | 01.23 | 7.6
-Slay the Spire | 01.23 | 8.8 | 💗💗
+Slay the Spire | 01.23 | 8.8 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/646570/header_292x136.jpg">
 The Hong Kong Massacre | 01.22 |
 Demon's Tilt | 01.22 |
 Feudal Alloy | 01.18 | 6.5
@@ -116,7 +116,7 @@ Game Title|Released Date|Rating|Favorite
 Below | 12.14 | 8.1
 GRIS | 12.13 | 7.8
 Insurgency: Sandstorm | 12.12
-DUSK | 12.11 | 9.3 | 💗💗
+DUSK | 12.11 | 9.3 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/519860/header_292x136.jpg">
 Desert Child | 12.11 | 6.1
 Project Warlock | 12.07
 Just Cause 4 | 12.04
@@ -128,12 +128,12 @@ X4: Foundations | 12.01
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Artifact | 11.29 | 8.2
-蓝宝石般的被害妄想少女 | 11.28 | 8.1 | 💙
+蓝宝石般的被害妄想少女 | 11.28 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/970510/header_292x136.jpg">
 Darksiders 3 | 11.28
 Farming Simulator 19 | 11.21
 Battlefield V | 11.20
 Killer7 | 11.17
-Hitman 2 | 11.13 | 8.9 | 💗💗
+Hitman 2 | 11.13 | 8.9 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/863550/header_292x136.jpg">
 Kynseed | 11.09 | 7.0
 11-11: Memories Retold | 11.09 | 7.5
 Hellsign | 11.07 | 6.7
@@ -149,21 +149,21 @@ Red Dead Redemption 2 | 10.26
 Party Hard 2 | 10.25
 Do Not Feed the Monkeys | 10.23 | 8.3
 Viviette | 10.18
-Return of the Obra Dinn | 10.18 | 9.4 | 💗💗
-Kingdom Rush Origins | 10.18 | 8.1 | 💙
+Return of the Obra Dinn | 10.18 | 9.5 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/653530/header_292x136.jpg">
+Kingdom Rush Origins | 10.18 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/816340/header_292x136.jpg">
 Infliction | 10.18 | 6.9
-The Hex | 10.17 | 8.4 | 💙
+The Hex | 10.17 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/510420/header_292x136.jpg">
 God's Basement | 10.17 | 6.0
-AI War 2 | 10.16 | 8.2 | 💙
+AI War 2 | 10.16 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header_292x136.jpg">
 Call of Duty: Black Ops 4 | 10.12
 The Missing | 10.11
 Shortest Trip to Earth | 10.10
 Mark of the Ninja: Remastered | 10.10 | 8.6
-Assassin's Creed: Odyssey | 10.5 | 8.8 | 💙
+Assassin's Creed: Odyssey | 10.5 | 8.8 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/header_292x136.jpg">
 Nimbatus | 10.4
 The Midnight Sanctuary | 10.4 | 5.9
 NITE Team 4 | 10.3
-Visage | 10.2 | 8.0 | 💙
+Visage | 10.2 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/594330/header_292x136.jpg">
 Mega Man 11 | 10.2
 
 ---
@@ -174,21 +174,21 @@ Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 Bad North | 09. | 
 Forza Horizon 4 | 09. | 9.3 | 💙
-Wandersong | 09. | 9.0 | 💙
-ZeroRanger | 09. | 8.8 | 💙 
+Wandersong | 09. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/530320/header_292x136.jpg">
+ZeroRanger | 09. | 8.8 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/809020/header_292x136.jpg">
 Killer 7 | 09. | 
 Life is Strange 2 | 09. | 8.3
 Timespinner | 09. | 
 Parkasaurus | 09. | 8.2
 Underhero  | 09. | 7.4
 Pathfinder: Kingmaker | 09. | 8.0
-DRAGON QUEST XI: Echoes of an Elusive Age | 09. | 8.7 | 💙 
+Dragon Quest XI | 09. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/742120/header_292x136.jpg">
 CrossCode | 09. | 7.8
 Shadow of the Tomb Raider | 09. | 8.4
 NBA 2K19 | 09. | 8.0
 428: Shibuya Scramble | 09. | 
 Planet Alpha | 09. | 
-The Messenger | 09. | 9.1 | 💙
+The Messenger | 09. | 9.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/764790/header_292x136.jpg">
 Shadows: Awakening | 09. | 7.5 
 
 ## 2018.08
@@ -300,7 +300,7 @@ Tangledeep | 02. | 7.7
 Game Title|Released Date|Rating|Favorite
 :-|:-:|:-:|:-:
 DRAGON BALL FighterZ | 01. | 8.0 
-Celeste | 01. | 9.2 | 💙
+Celeste | 01. | 9.1 | 💙
 Zwei: The Arges Adventure | 01. | 7.7 
 Nantucket | 01. | 
 Subnautica | 01. | 8.6 | 💙
