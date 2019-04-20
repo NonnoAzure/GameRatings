@@ -111,8 +111,8 @@ Odd Realm | 01.11 | 7.1
 
 ## 2018.12
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Below | 12.14 | 8.1
 GRIS | 12.13 | 7.8
 Insurgency: Sandstorm | 12.12
@@ -125,8 +125,8 @@ X4: Foundations | 12.01
 
 ## 2018.11
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Artifact | 11.29 | 8.2
 蓝宝石般的被害妄想少女 | 11.28 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/970510/header_292x136.jpg">
 Darksiders 3 | 11.28
@@ -141,8 +141,8 @@ The Shapeshifting Detective | 11.06 | 6.9
 
 ## 2018.10
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Call of Cthulhu | 10.31 | 8.1
 Project Hospital | 10.31 | 8.0
 Red Dead Redemption 2 | 10.26
@@ -170,8 +170,8 @@ Mega Man 11 | 10.2
 
 ## 2018.09
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Bad North | 09. | 
 Forza Horizon 4 | 09. | 9.3 | 💙
 Wandersong | 09. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/530320/header_292x136.jpg">
@@ -193,8 +193,8 @@ Shadows: Awakening | 09. | 7.5
 
 ## 2018.08
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Two Point Hospital | 08. | 8.0 
 Strange Brigade | 08. | 
 The Universim | 08. | 7.7
@@ -211,8 +211,8 @@ This Is the Police 2 | 08. | 9.0 | 💙
 
 ## 2018.07
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Chasm | 07. | 
 La-Mulana 2 | 07. | 8.5 | 💙
 The Banner Saga 3 | 07. | 8.6 | 💙
@@ -225,8 +225,8 @@ New Ice York | 07. | 5.8 | 💩
 
 ## 2018.06
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 The Crew 2 | 06. | 7.3
 Darkest Dungeon: The Color Of Madness | 06. | 8.2 
 Jurassic World Evolution | 06. | 6.9
@@ -238,8 +238,8 @@ The Piano | 06. | 4.9 | 💩
 
 ## 2018.05
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Moonlighter | 05. | 
 Dark Souls: Remastered | 05. | 9.4 | 💗💗
 Siralim 3 | 05. | 
@@ -254,8 +254,8 @@ Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙
 
 ## 2018.04
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 It Lurks Below | 04. | 8.3
 Monster Prom | 04. | 7.3
 The Swords of Ditto | 04. | 7.2 
@@ -267,8 +267,8 @@ Minit | 04. | 8.7 | 💙
 
 ## 2018.03
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Long Gone Days | 03. | 7.0 
 Ni no Kuni II: Revenant Kingdom | 03. | 7.3
 Far Cry 5 | 03. | 8.3
@@ -283,8 +283,8 @@ Where the Water Tastes Like Wine | 03. | 8.4 | 💙
 
 ## 2018.02
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 Into the Breach | 02. | 9.4 | 💗💗
 Beckett | 02. | 8.5 | 💙
 Crossing Souls | 02. | 7.5 
@@ -297,8 +297,8 @@ Tangledeep | 02. | 7.7
 
 ## 2018.01
 
-Game Title|Released Date|Rating|Favorite
-:-|:-:|:-:|:-:
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
 DRAGON BALL FighterZ | 01. | 8.0 
 Celeste | 01. | 9.1 | 💙
 Zwei: The Arges Adventure | 01. | 7.7 
