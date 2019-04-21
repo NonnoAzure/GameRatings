@@ -257,7 +257,7 @@ Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙 | <img src="https://steamcdn
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 It Lurks Below | 04. | 8.3
-Monster Prom | 04. | 7.3
+Monster Prom | 04. | 7.4
 The Swords of Ditto | 04. | 7.2 
 The Spatials: Galactology | 04. | 7.1
 Frostpunk | 04. | 8.8 | 💙
@@ -279,6 +279,7 @@ Ghost of a Tale | 03. | 8.1 | 💙
 Northgard | 03. | 7.6 
 Final Fantasy XV | 03. | 8.7 | 💙
 Pit People | 03. | 9.0 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/291860/header_292x136.jpg">
+Guns, Gore and Cannoli 2 | 03.02 | 7.6
 Where the Water Tastes Like Wine | 03. | 8.4 | 💙
 
 ## 2018.02
@@ -287,7 +288,7 @@ Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Into the Breach | 02. | 9.4 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/590380/header_292x136.jpg">
 Beckett | 02. | 8.5 | 💙
-Crossing Souls | 02. | 7.5 
+Crossing Souls | 02. | 7.7 
 Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/379430/header_292x136.jpg">
 All Our Asias | 02. | 7.2 
 Dandara | 02. | 8.0 | 💙
