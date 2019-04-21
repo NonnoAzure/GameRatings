@@ -81,7 +81,7 @@ Enderal: Forgotten Stories | 02.15 | 8.2
 The Textorcist | 02.15 | 
 Civilization VI: Gathering Storm | 02.15 | 8.0
 Far Cry: New Dawn | 02.15 | 
-Element: Space | 02.14 | 6.0
+Element: Space | 02.14 | 5.7
 Eastshade | 02.13 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/715560/header_292x136.jpg">
 Foundation | 02.01 | 7.1
 Wargroove | 02.01 | 8.2
