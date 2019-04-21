@@ -58,7 +58,7 @@ Baba is You | 03.14 | 9.2 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net
 Hypnospace Outlaw | 03.12
 Truberbrook | 03.12
 Factory Town | 03.12 | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/860890/header_292x136.jpg">
-Devil May Cry 5 | 03.08 | 8.5
+Devil May Cry 5 | 03.08 | 8.4
 7th Sector | 03.06 | 7.6
 The Occupation | 03.05 | 7.2
 When the Darkness comes | 03.04 | 6.5
