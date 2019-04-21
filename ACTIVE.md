@@ -214,8 +214,8 @@ This Is the Police 2 | 08. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Chasm | 07. | 
-La-Mulana 2 | 07. | 8.5 | 💙
-The Banner Saga 3 | 07. | 8.6 | 💙
+La-Mulana 2 | 07. | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/835430/header_292x136.jpg">
+The Banner Saga 3 | 07. | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/485460/header_292x136.jpg">
 Stonehearth | 07. | 7.7 
 GNOG | 07. | 
 Dig or Die | 07. | 8.1 
@@ -231,7 +231,7 @@ The Crew 2 | 06. | 7.3
 Darkest Dungeon: The Color Of Madness | 06. | 8.2 
 Jurassic World Evolution | 06. | 6.9
 Vampyr | 06. | 7.4
-Cultist Simulator | 06. | 9.1 | 💗💗
+Cultist Simulator | 06. | 9.1 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/718670/header_292x136.jpg">
 Just Shapes & Beats | 06. | 
 Smoke and Sacrifice | 06. | 7.0
 The Piano | 06. | 4.9 | 💩
@@ -241,16 +241,16 @@ The Piano | 06. | 4.9 | 💩
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Moonlighter | 05. | 
-Dark Souls: Remastered | 05. | 9.4 | 💗💗
+Dark Souls: Remastered | 05. | 9.4 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/570940/header_292x136.jpg">
 Siralim 3 | 05. | 
 Bloodstained: Curse of the Moon | 05. | 
 Unforeseen Incidents | 05. | 
 Slipstream | 05. | 7.5
 Forgotton Anne | 05. | 7.6
-FAR: Lone Sails | 05. | 8.6 | 💙
-Fortune-499 | 05. | 9.2 | 💗💗
+FAR: Lone Sails | 05. | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/609320/header_292x136.jpg">
+Fortune-499 | 05. | 9.2 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/840610/header_292x136.jpg">
 Wizard of Legend | 05. | 7.8 
-Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙
+Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/560130/header_292x136.jpg">
 
 ## 2018.04
 
@@ -278,17 +278,17 @@ Surviving Mars | 03. | 7.7 | 💙
 Ghost of a Tale | 03. | 8.1 | 💙
 Northgard | 03. | 7.6 
 Final Fantasy XV | 03. | 8.7 | 💙
-Pit People | 03. | 9.0 | 💗💗
+Pit People | 03. | 9.0 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/291860/header_292x136.jpg">
 Where the Water Tastes Like Wine | 03. | 8.4 | 💙
 
 ## 2018.02
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Into the Breach | 02. | 9.4 | 💗💗
+Into the Breach | 02. | 9.4 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/590380/header_292x136.jpg">
 Beckett | 02. | 8.5 | 💙
 Crossing Souls | 02. | 7.5 
-Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 
+Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/379430/header_292x136.jpg">
 All Our Asias | 02. | 7.2 
 Dandara | 02. | 8.0 | 💙
 Rise of Industry | 02. | 7.9 | 💙
