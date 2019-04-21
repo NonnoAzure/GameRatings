@@ -221,7 +221,7 @@ GNOG | 07. |
 Dig or Die | 07. | 8.1 
 Clicker Heroes 2 | 07. | 
 Dungeon Warfare 2 | 07. | 
-New Ice York | 07. | 5.8 | 💩
+New Ice York | 07. | 5.6 | 💩
 
 ## 2018.06
 
