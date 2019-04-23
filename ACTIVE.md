@@ -307,3 +307,82 @@ Nantucket | 01. |
 Subnautica | 01. | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/264710/header_292x136.jpg">
 Iconoclasts | 01. | 7.8 
 The Red Strings Club | 01. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/589780/header_292x136.jpg">
+
+
+---
+
+## 2017.12
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Gorogoa | Dec. | 8.5 | 💙 |
+Finding Paradise | Dec. | 7.5 
+They Are Billions | Dec. | 8.7 | 💙 |
+Purrfect Date | Dec. | 7.1
+Okami HD | Dec. | 9.1 | 💙 |
+Stationeers | Dec. | 7.9 
+Opus Magnum | Dec. | 9.2 | 💗💗 |
+Getting Over It With Bennett Foddy | Dec. | 7.4 
+Odysseus Kosmos and his Robot Quest | Dec. | 7.0 
+
+## 2017.11
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Superflight | Nov. | 6.8 
+Uurnog Uurnlimited | Nov. | 7.0 
+Call of Duty WWII | Nov. | 8.2 
+Battlerite | Nov. | 8.3 
+
+## 2017.10
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Wolfenstein II: The New Colossus | Oct. | 8.9 | 💙 |
+Assassin's Creed Origins | Oct. | 9.0 
+The Evil Within 2 | Oct. | 7.5 
+Cogmind | Oct. | 
+ELEX | Oct. | 7.7 
+Middle-Earth: Shadow of War | Oct. | 8.0 
+Battle Chasers: Nightwar | Oct. | 8.1 
+A Hat in Time | Oct. | 9.1 | 💗💗 |
+The Norwood Suite | Oct. | 8.0 | 💙 |
+
+## 2017.09
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Legend of Hand | Sep. | 7.8 
+Cuphead | Sep. | 9.2 | 💗💗 |
+Total War: Warhammer 2 | Sep. | 8.9 | 💙 |
+Figment | Sep. | 7.9 
+Echo | Sep. | 7.3 
+Muv-Luv Alternative | Sep. | 8.5 
+Ruiner | Sep. | 7.7 
+Hob | Sep. | 8.0 | 💙 |
+HIVESWAP | Sep. | 6.0 
+Cook, Serve, Delicious! 2 | Sep. | 7.5 
+NBA 2K18 | Sep. | 7.8 
+3030 Deathwar Redux | Sep. | 7.9 
+Heat Signature | Sep. | 9.1 | 💗💗 |
+Dishonored: Death of the Outsider | Sep. | 8.6 | 💙 |
+Divinity: Original Sin 2 | Sep. | 9.7 | 💗💗 |
+Tooth and Tail | Sep. | 8.4 
+Age of Fear 3: The Legend | Sep. | 7.5 
+
+## 2017.08
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Last Day of June | Aug. | 7.6 
+White Day: A Labyrinth Named School | Aug. | 6.7 
+Life is Strange: Before the Storm | Aug. | 7.7 
+Observer | Aug. | 8.9 | 💗💗 |
+Ken Follett's The Pillars of the Earth | Aug. | 6.8 
+West of Loathing | Aug. | 9.1 | 💗💗 |
+Darkwood | Aug. | 8.3 | 💙 |
+Sudden Strike 4 | Aug. | 7.2 
+Rez Infinite | Aug. | 8.6 | 💙 |
+Hellblade: Senua's Sacrifice | Aug. | 8.4 | 💙 |
+Tacoma | Aug. | 7.1 
+The Long Dark | Aug. | 8.7 | 💙 |
