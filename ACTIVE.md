@@ -374,7 +374,7 @@ Age of Fear 3: The Legend | Sep. | 7.5
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Last Day of June | Aug. | 7.6 
+Last Day of June | Aug. | 7.5 
 White Day: A Labyrinth Named School | Aug. | 6.7 
 Life is Strange: Before the Storm | Aug. | 7.7 
 Observer | Aug. | 8.9 | 💗💗 |
@@ -386,3 +386,113 @@ Rez Infinite | Aug. | 8.6 | 💙 |
 Hellblade: Senua's Sacrifice | Aug. | 8.4 | 💙 |
 Tacoma | Aug. | 7.1 
 The Long Dark | Aug. | 8.7 | 💙 |
+
+## 2017.07
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+The Low Road | Jul. | 8.1 
+Pyre | Jul. | 9.0 | 💙 |
+Children of Zodiarcs | Jul. | 7.2 
+Strike Vector EX | Jul. | 7.6 
+The Letter - Horror Visual Novel | Jul. | 8.0 
+Kingdoms and Castles | Jul. | 7.3 
+Behold the Kickmen | Jul. | 6.9 | 💙 |
+
+## 2017.06
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Nex Machina | Jun. | 7.1 
+Monolith | Jun. | 8.7 | 💗💗 |
+CRYPTARK | Jun. | 8.0 
+Get Even | Jun. | 8.2 
+Passpartout: The Starving Artist | Jun. | 6.5 
+Conarium | Jun. | 6.8 
+WILL: A Wonderful World | Jun. | 7.4 
+
+## 2017.05
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Everspace | May. | 7.5 
+RiME | May. | 8.1 | 💙 |
+Emily is Away Too | May. | 7.2 
+Vanquish | May. | 7.6 
+The Fidelio Incident | May. | 7.3 
+Starpoint Gemini Warlords | May. | 7.1 
+Caveblazers | May. | 7.5 
+Mages of Mystralia | May. | 7.5 
+Oxygen Not Included | May. | 9.3 | 💗💗 |
+Endless Space 2 | May. | 7.4 
+Portal Knights | May. | 7.3 
+The Dishwasher: Vampire Smile | May. | 8.8 | 💙 |
+Rakuen | May. | 7.2 
+Dead Cells | May. | 8.6 | 💙 |
+Prey | May. | 9.4 | 💗💗 |
+World to the West | May. | 7.8 
+TumbleSeed | May. | 7.1 
+
+## 2017.04
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Little Nightmares | Apr. | 9.0 | 💙 |
+Warhammer 40,000: Dawn of War III | Apr. | 5.9 
+Immortal Redneck | Apr. | 7.5 
+Outlast 2 | Apr. | 8.2 
+Pinstripe | Apr. | 7.7 | 💙 |
+Syberia 3 | Apr. | 5.8 
+What Remains of Edith Finch | Apr. | 9.2 | 💗💗 |
+Everything | Apr. | 9.0 | 💙 |
+Marvel's Guardians of the Galaxy | Apr. | 8.4 
+Cosmic Star Heroine | Apr. | 8.5 
+Late Shift | Apr. | 8.1 
+Bayonetta | Apr. | 9.0 | 💙 |
+Mr. Shifty | Apr. | 8.7 | 💙 |
+Yooka-Laylee | Apr. | 6.7 
+Crawl | Apr. | 8.5 
+Planescape: Torment Enhanced Edition | Apr. | 9.5 | 💗💗 |
+The Sexy Brutale | Apr. | 8.8 | 💙 |
+Aaero | Apr. | 8.3 | 💙 |
+
+## 2017.03
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Thimbleweed Park | Mar. | 8.6 | 💙 |
+Snake Pass | Mar. | 7.3 
+Zero Escape: The Nonary Games | Mar. | 8.6 
+Battle Brothers | Mar. | 8.8 | 💙 |
+Beat Cop | Mar. | 6.6 
+Rain World | Mar. | 8.1 | 💙 |
+Kona | Mar. | 7.6 | 💙 |
+Mass Effect : Andromeda (EA) | Mar. | 8.0 
+Tom Clancy's Ghost Recon Wildlands | Mar. | 8.6 
+Ultimate Marvel vs. Capcom 3 | Mar. | 7.9 
+
+## 2017.02
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+For The King | Feb. | 8.4 | 💙 |
+Stories Untold | Feb. | 8.5 | 💙 |
+Syrian Warfare | Feb. | 7.8 
+Hollow Knight | Feb. | 9.4 | 💗💗 |
+Unexplored | Feb. | 8.9 | 💙 |
+Night in the Woods | Feb. | 9.3 | 💗💗 |
+theHunter: Call of the Wild | Feb. | 8.1 | 💙 |
+For Honor | Feb. | 8.4 
+Hidden Folks | Feb. | 7.3 
+Soul Searching | Feb. | 9.0 | 💙 |
+Sniper Elite 4 | Feb. | 8.5 
+Bleed 2 | Feb. | 8.2 | 💙 |
+Phoning Home | Feb. | 6.2 
+
+## 2017.01
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+A Normal Lost Phone | Jan. | 7.2 
+Resident Evil 7 | Jan. | 8.4 
+Detention | Jan. | 8.3 | 💙 |
