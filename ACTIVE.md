@@ -260,10 +260,10 @@ It Lurks Below | 04. | 8.3
 Monster Prom | 04. | 7.4
 The Swords of Ditto | 04. | 7.2 
 The Spatials: Galactology | 04. | 7.1
-Frostpunk | 04. | 8.8 | 💙
+Frostpunk | 04. | 8.8 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/323190/header_292x136.jpg">
 Battletech | 04. | 7.9
 Dead in Vinland | 04. | 7.5 
-Minit | 04. | 8.7 | 💙
+Minit | 04. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/609490/header_292x136.jpg">
 
 ## 2018.03
 
@@ -274,25 +274,25 @@ Ni no Kuni II: Revenant Kingdom | 03. | 7.3
 Far Cry 5 | 03. | 8.3
 Through the Ages | 03. | 8.0 
 Paratopic | 03. | 8.2 
-Surviving Mars | 03. | 7.7 | 💙
-Ghost of a Tale | 03. | 8.1 | 💙
+Surviving Mars | 03. | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/464920/header_292x136.jpg">
+Ghost of a Tale | 03. | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/417290/header_292x136.jpg">
 Northgard | 03. | 7.6 
-Final Fantasy XV | 03. | 8.7 | 💙
+Final Fantasy XV | 03. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/637650/header_292x136.jpg">
 Pit People | 03. | 9.0 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/291860/header_292x136.jpg">
 Guns, Gore and Cannoli 2 | 03.02 | 7.6
-Where the Water Tastes Like Wine | 03. | 8.4 | 💙
+Where the Water Tastes Like Wine | 03. | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/447120/header_292x136.jpg">
 
 ## 2018.02
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Into the Breach | 02. | 9.4 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/590380/header_292x136.jpg">
-Beckett | 02. | 8.5 | 💙
+Beckett | 02. | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/588230/header_292x136.jpg">
 Crossing Souls | 02. | 7.7 
 Kingdom Come: Deliverance | 02. | 9.3 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/379430/header_292x136.jpg">
 All Our Asias | 02. | 7.2 
-Dandara | 02. | 8.0 | 💙
-Rise of Industry | 02. | 7.9 | 💙
+Dandara | 02. | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/612390/header_292x136.jpg">
+Rise of Industry | 02. | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/671440/header_292x136.jpg">
 Salt | 02. | 7.0 
 Tangledeep | 02. | 7.7 
 
@@ -301,9 +301,9 @@ Tangledeep | 02. | 7.7
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 DRAGON BALL FighterZ | 01. | 8.0 
-Celeste | 01. | 9.1 | 💙
+Celeste | 01. | 9.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/504230/header_292x136.jpg">
 Zwei: The Arges Adventure | 01. | 7.7 
 Nantucket | 01. | 
-Subnautica | 01. | 8.6 | 💙
+Subnautica | 01. | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/264710/header_292x136.jpg">
 Iconoclasts | 01. | 7.8 
-The Red Strings Club | 01. | 9.0 | 💙
+The Red Strings Club | 01. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/589780/header_292x136.jpg">
