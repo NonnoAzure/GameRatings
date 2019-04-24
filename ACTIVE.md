@@ -20,7 +20,7 @@ Dark Devotion| 04.25 |
 Mortal Kombat 11 | 04.24 |
 Zombotron | 04.22 | 7.4
 Courier of the Crypts | 04.19 | 
-Forager | 04.19 | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
+Forager | 04.19 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
 Embark | 04.19 | 
 Save Koch | 04.18 | 
 God's Trigger | 04.18 | 
