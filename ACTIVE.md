@@ -13,11 +13,12 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-soko loco deluxe | 04.? |[day one]
+soko loco deluxe | 06.? |[day one]
 Lorelai | 04.27 | [day one]
 Imperator Rome | 04.26 | [purchased]
 Dark Devotion| 04.25 |
-Zombotron | 04.22 |
+Mortal Kombat 11 | 04.24 |
+Zombotron | 04.22 | 7.4
 Courier of the Crypts | 04.19 | 
 Forager | 04.19 | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/751780/header_292x136.jpg">
 Embark | 04.19 | 
