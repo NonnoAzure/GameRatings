@@ -28,7 +28,7 @@ Katana Zero | 04.18 | 8.6 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net
 Sigma Theory | 04.18 | | | 716640
 Bossgard | 04.18 | 
 Whispers of a Machine | 04.17 | | | 631570
-Heaven's Vault | 04.16 | 8.0 | | 774201
+Heaven's Vault | 04.16 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774201/header_292x136.jpg">
 Anno 1800 | 04.16 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/916440/header_292x136.jpg">
 One Finger Death Punch 2 | 04.15 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/980300/header_292x136.jpg">
 Staxel | 04.12 | 7.2 | | 405710
