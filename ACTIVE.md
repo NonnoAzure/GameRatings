@@ -87,7 +87,7 @@ Eastshade | 02.13 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam
 Foundation | 02.01 | 7.1
 Wargroove | 02.01 | 8.2
 Praey for the Gods | 02.01 | 
-Sunless Skies | 02.01 | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/596970/header_292x136.jpg">
+Sunless Skies | 02.01 | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/596970/header_292x136.jpg">
 
 ## 2019.01
 
@@ -137,7 +137,7 @@ Killer7 | 11.17
 Hitman 2 | 11.13 | 8.9 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/863550/header_292x136.jpg">
 Kynseed | 11.09 | 7.0
 11-11: Memories Retold | 11.09 | 7.5
-Hellsign | 11.07 | 6.7
+Hellsign | 11.07 | 7.4
 The Shapeshifting Detective | 11.06 | 6.9
 
 ## 2018.10
@@ -316,13 +316,13 @@ The Red Strings Club | 01. | 9.0 | 💙 | <img src="https://steamcdn-a.akamaihd.
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Gorogoa | Dec. | 8.5 | 💙 |
+Gorogoa | Dec. | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/557600/header_292x136.jpg">
 Finding Paradise | Dec. | 7.5 
-They Are Billions | Dec. | 8.7 | 💙 |
+They Are Billions | Dec. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/644930/header_292x136.jpg">
 Purrfect Date | Dec. | 7.1
-Okami HD | Dec. | 9.1 | 💙 |
+Okami HD | Dec. | 9.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/587620/header_292x136.jpg">
 Stationeers | Dec. | 7.9 
-Opus Magnum | Dec. | 9.2 | 💗💗 |
+Opus Magnum | Dec. | 9.2 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/558990/header_292x136.jpg">
 Getting Over It With Bennett Foddy | Dec. | 7.4 
 Odysseus Kosmos and his Robot Quest | Dec. | 7.0 
 
@@ -339,15 +339,15 @@ Battlerite | Nov. | 8.3
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Wolfenstein II: The New Colossus | Oct. | 8.9 | 💙 |
+Wolfenstein II: The New Colossus | Oct. | 8.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/612880/header_292x136.jpg">
 Assassin's Creed Origins | Oct. | 9.0 
 The Evil Within 2 | Oct. | 7.5 
-Cogmind | Oct. | 
+Cogmind | Oct. | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/722730/header_292x136.jpg">
 ELEX | Oct. | 7.7 
-Middle-Earth: Shadow of War | Oct. | 8.0 
-Battle Chasers: Nightwar | Oct. | 8.1 
-A Hat in Time | Oct. | 9.1 | 💗💗 |
-The Norwood Suite | Oct. | 8.0 | 💙 |
+Middle-Earth: Shadow of War | Oct. | 8.3 
+Battle Chasers: Nightwar | Oct. | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/451020/header_292x136.jpg"> 
+A Hat in Time | Oct. | 9.1 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/253230/header_292x136.jpg">
+The Norwood Suite | Oct. | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/696480/header_292x136.jpg">
 
 ## 2017.09
 
@@ -380,7 +380,7 @@ White Day: A Labyrinth Named School | Aug. | 6.7
 Life is Strange: Before the Storm | Aug. | 7.7 
 Observer | Aug. | 8.9 | 💗💗 |
 Ken Follett's The Pillars of the Earth | Aug. | 6.8 
-West of Loathing | Aug. | 9.1 | 💗💗 |
+West of Loathing | Aug. | 9.0 | 💗💗 |
 Darkwood | Aug. | 8.3 | 💙 |
 Sudden Strike 4 | Aug. | 7.2 
 Rez Infinite | Aug. | 8.6 | 💙 |
@@ -393,7 +393,7 @@ The Long Dark | Aug. | 8.7 | 💙 |
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 The Low Road | Jul. | 8.1 
-Pyre | Jul. | 9.0 | 💙 |
+Pyre | Jul. | 9.1 | 💗💗 |
 Children of Zodiarcs | Jul. | 7.2 
 Strike Vector EX | Jul. | 7.6 
 The Letter - Horror Visual Novel | Jul. | 8.0 
