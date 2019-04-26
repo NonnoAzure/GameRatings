@@ -150,7 +150,7 @@ Red Dead Redemption 2 | 10.26
 Party Hard 2 | 10.25
 Do Not Feed the Monkeys | 10.23 | 8.3
 Viviette | 10.18
-Return of the Obra Dinn | 10.18 | 9.6 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/653530/header_292x136.jpg">
+Return of the Obra Dinn | 10.18 | 9.5 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/653530/header_292x136.jpg">
 Kingdom Rush Origins | 10.18 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/816340/header_292x136.jpg">
 Infliction | 10.18 | 6.9
 The Hex | 10.17 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/510420/header_292x136.jpg">
@@ -160,7 +160,7 @@ Call of Duty: Black Ops 4 | 10.12
 The Missing | 10.11
 Shortest Trip to Earth | 10.10
 Mark of the Ninja: Remastered | 10.10 | 8.6
-Assassin's Creed: Odyssey | 10.5 | 8.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/header_292x136.jpg">
+Assassin's Creed: Odyssey | 10.5 | 9.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/812140/header_292x136.jpg">
 Nimbatus | 10.4
 The Midnight Sanctuary | 10.4 | 5.9
 NITE Team 4 | 10.3
