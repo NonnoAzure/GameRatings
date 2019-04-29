@@ -14,7 +14,7 @@ I'd like to find a certain way to record and order all games I owned and played 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 UBOAT | 04.30 |
-Lorelai | 04.27 | ?
+Lorelai | 04.27 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/593960/header_292x136.jpg">
 Imperator Rome | 04.26 | ?
 Dark Devotion| 04.25 |
 Mortal Kombat 11 | 04.24 |
