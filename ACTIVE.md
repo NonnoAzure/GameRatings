@@ -13,9 +13,9 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-soko loco deluxe | 06.? |[day one]
-Lorelai | 04.27 | [day one]
-Imperator Rome | 04.26 | [purchased]
+UBOAT | 04.30 |
+Lorelai | 04.27 | ?
+Imperator Rome | 04.26 | ?
 Dark Devotion| 04.25 |
 Mortal Kombat 11 | 04.24 |
 Zombotron | 04.22 | 7.4
