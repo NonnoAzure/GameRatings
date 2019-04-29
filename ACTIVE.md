@@ -398,6 +398,7 @@ Children of Zodiarcs | Jul. | 7.2
 Strike Vector EX | Jul. | 7.6 
 The Letter - Horror Visual Novel | Jul. | 8.0 
 Kingdoms and Castles | Jul. | 7.3 
+Walden | Jul. | 6.0 
 Behold the Kickmen | Jul. | 6.9 | 💙 |
 
 ## 2017.06
