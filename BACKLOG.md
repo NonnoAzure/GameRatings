@@ -3,9 +3,13 @@
 ## Owned
 
 ### Advanture & Myth-like
-Cradle
+* Cradle
 
-### Arcade & Slash & Twin-stick
+### Arcade & STG & Twin-stick
+* Mushihimesama
+* OliliOlli 2
+* Bullet Heaven 2
+* Bleed 2
 
 ### FPS
 * Tower of Guns
@@ -27,6 +31,7 @@ Cradle
 * Desktop Dungeon
 * Rogue's Tale
 * Hydra Slayer
+* Golden Krone Hotel
 
 ### Roguelite
 * Dungreed
@@ -39,16 +44,32 @@ Cradle
 * Ziggurat
 
 ### Turn-based
-
+* expeditions viking
+* banner saga 2/3
 
 ### Strategy
 
 
-### Visual Novel
-
+### Visual Novel & Reasoning
+* Danganronpa V3
+* Steins;Gate (Series)
+* Subsurface Circular
+* Aviary Attorney
 
 ### JRPG
 
+
+### RPG
+* Underrail
+* World to the West
+* Wuppo
+* CrossCode
+
+### Boardgame & Card
+* d&d lords of waterdeep
+* through the ages
+* twilight struggle
+* card quest
 
 ---
 ---
