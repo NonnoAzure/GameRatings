@@ -4,17 +4,38 @@
 
 ### 
 
-#### Arcade & Slash & Twin-stick
+### Arcade & Slash & Twin-stick
 
-#### Puzzle
+### FPS
 
-#### Roguelike
-ADOM
-Caves of Qud
-Cogmind
+### Puzzle
+* Antichamber
+* DROD
+
+### Roguelike
+* ADOM
+* Caves of Qud
+* Cogmind
+* Hydra Slayer
+
+### Roguelite
 
 
+### Turn-based
 
 
+### Strategy
 
-## Wishlist
+
+### Visual Novel
+
+
+### JRPG
+
+
+---
+---
+
+
+## Wishlist (Released)
+
