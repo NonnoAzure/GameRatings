@@ -158,7 +158,7 @@ Darksiders 3 | 11.28
 Farming Simulator 19 | 11.21
 Battlefield V | 11.20
 Killer7 | 11.17
-Hitman 2 | 11.13 | 8.9 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/863550/header_292x136.jpg">
+Hitman 2 | 11.13 | 9.0 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/863550/header_292x136.jpg">
 Kynseed | 11.09 | 7.0
 11-11: Memories Retold | 11.09 | 7.5
 Hellsign | 11.07 | 7.4
@@ -490,6 +490,7 @@ Game Title|Released Date|Rating|Favorite|Captain
 Thimbleweed Park | Mar. | 8.6 | 💙 |
 Snake Pass | Mar. | 7.3 
 Zero Escape: The Nonary Games | Mar. | 8.6 
+The Crow's Eye | 03.20 | 5.6 
 Battle Brothers | Mar. | 8.8 | 💙 |
 Beat Cop | Mar. | 6.6 
 Rain World | Mar. | 8.1 | 💙 |
@@ -523,3 +524,204 @@ Game Title|Released Date|Rating|Favorite|Captain
 A Normal Lost Phone | Jan. | 7.2 
 Resident Evil 7 | Jan. | 8.4 
 Detention | Jan. | 8.3 | 💙 |
+
+---
+
+## 2016.12
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Astronner | Dec. | 7.8 
+Space Hulk: Deathwing | Dec. | 5.3 
+Guilty Gear Xrd Revelator | Dec. | 8.9 
+Shadow Tactics: Blades of the Shogun | Dec. | 9.3 
+Steep | Dec. | 8.8 
+Earth's Dawn | Dec. | 6.5 
+
+## 2016.11
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Quern: Undying Thoughts | Nov. | 8.7 | 💙 |
+Glass Masquerade | Nov. | 7.1 
+Planet Coaster | Nov. | 9.4 | 💗💗 |
+Killing Floor 2 | Nov. | 7.5 
+Silence | Nov. | 6.3 
+Ittle Dew 2 | Nov. | 7.9 
+Watch Dogs 2 | Nov. | 8.7 | 💙 |
+Tyranny | Nov. | 8.4 | 💙 |
+Motorsport Manager | Nov. | 8.5 | 💙 |
+Beholder | Nov. | 7.2 
+Dishonored 2 | Nov. | 9.1 | 💙 |
+Transport Fever | Nov. | 7.8 
+Call of Duty Infinite Warfare | Nov. | 8.5 
+Owlboy | Nov. | 9.3 | 💗💗 |
+
+## 2016.10
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Titanfall 2 (EA) | Oct. | 9.1 | 💙 |
+Orwell | Oct. | 7.9 
+Bomber Crew | Oct. | 7.7 
+Farming Simulator 17 | Oct. | 7.3 
+Sid Meier’s Civilization VI | Oct. | 8.1 
+Rusty Lake: Roots | Oct. | 7.4 
+Shadow Warrior 2 | Oct. | 8.0 
+Gears of War 4 (MS) | Oct. | 8.6 
+Thumper | Oct. | 8.8 | 💙 |
+Mafia III | Oct. | 7.8 
+
+## 2016.09
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Wuppo | Sep. | 8.5 
+侠客英雄传前传 | Sep. | 7.1 
+Osiris: New Dawn | Sep. | 7.3 
+Forza Horizon 3 (MS) | Sep. | 9.1 | 💙 | 
+Virginia | Sep. | 8.3 | 💙 |
+Event[0] | Sep. | 7.8 
+Rive | Sep. | 7.9 
+Project Highrise | Sep. | 7.4 
+Seasons after Fall | Sep. | 6.7 
+
+## 2016.08
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Champions of Anteria | Aug. | 6.9 
+The Turing Test | Aug. | 7.7 
+The Final Station | Aug. | 7.5 
+Titan Quest Anniversary Edition | Aug. | 8.6 | 💙 | 
+God Eater 2 Rage Burst | Aug. | 6.3 
+Tales of Berseria | Aug. | 7.8 
+Obduction | Aug. | 8.9 | 💙 |
+Valley | Aug. | 7.6 
+Deus Ex: Mankind Divided | Aug. | 8.5 | 💙 |
+Okhlos: Omega | Aug. | 7.2 
+Ticket | Aug. | 8.4 | 💙 |
+Siralim 2 | Aug. | 7.6 
+No Man's Sky | Aug. | 8.6 | 💙 | 
+Kingdom: New Lands | Aug. | 7.3 
+Overcooked | Aug. | 7.4 
+ABZU | Aug. | 8.5 | 💙 |
+This Is the Police | Aug. | 8.0 
+Slime Rancher | Aug. | 8.1 
+Lethe: Episode One | Aug. | 6.2 
+
+## 2016.07
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Book of Demons | Jul. | 7.7 
+Starbound | Jul. | 9.2 
+RimWorld | Jul. | 9.5 
+Zombie Night Terror | Jul. | 7.8 
+Replica | Jul. | 6.1 
+The Lion's Song | Jul. | 8.1 
+Quadrilateral Cowboy | Jul. | 9.3 
+Furi | Jul. | 8.9 
+
+## 2016.06
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Hard Reset Redux | Jun. | 7.1 
+Zero Escape: Zero Time Dilemma | Jun. | 8.6 
+Inside | Jun. | 9.8 
+VA-11 HALL-A | Jun. | 8.5 
+Sherlock Holmes: Devil's Daughter | Jun. | 7.9 
+Ghost 1.0 | Jun. | 8.4 
+Steamworld Heist | Jun. | 8.5 
+Hearts of Iron IV | Jun. | 9.0 
+Verdict Guilty | Jun. | 5.5 
+Crea | Jun. | 7.9 
+Turmoil | Jun. | 7.1 
+Home Behind | Jun. | 6.9 
+Muv-Luv | Jun. | 6.8 
+Mirror's Edge Catalyst (EA) | Jun. | 7.6 
+Planet Centauri | Jun. | 7.4 
+Solitairica | Jun. | 7.2 
+
+## 2016.05
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Overwatch (BZ) | May. | 8.9 
+Total War: Warhammer | May. | 8.2 
+Homefront: The Revolution | May. | 7.3 
+DOOM | May. | 9.4 | 💗💗 |
+Stellaris | May. | 8.9 | 💗💗 |
+Battleborn | May. | 5.7 
+
+## 2016.04
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Offworld Trading Company | Apr. | 6.0 
+Don't Starve Together | Apr. | 7.9 
+The Banner Saga 2 | Apr. | 8.3 
+Stephen's Sausage Roll | Apr. | 8.9 
+Stories: The Path of Destinies | Apr. | 7.0 
+Judgment: Apocalypse Survival Simulation | Apr. | 7.4 
+Quantum Break | Apr. | 8.6 
+Enter the Gungeon | Apr. | 8.7 
+Hyper Light Drifter | Apr. | 8.7 
+Paradigm | Apr. | 8.2 
+
+## 2016.03
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+ADR1FT | Mar. | 5.5 
+Epistory Typing Chronicles | Mar. | 7.8 
+Samorost 3 | Mar. | 8.2 
+Dark Souls III | Mar. | 9.2 
+Sheltered | Mar. | 7.7 
+The Sea Will Claim Everything | Mar. | 8.2 
+Salt and Sanctuary | Mar. | 8.7 
+Deadbolt | Mar. | 8.6 
+HITMAN | Mar. | 8.9 
+Gremlins, Inc. | Mar. | 8.3 
+Tom Clancy’s The Division | Mar. | 8.5 
+Momodora: Reverie Under the Moonlight | Mar. | 7.5 
+The Count Lucanor | Mar. | 7.0 
+Far Cry Primal | Mar. | 7.3 
+
+## 2016.02
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Stardew Valley | Feb. | 9.5 | 💗💗 |
+Homeworld Remastered Collection | Feb. | 8.8 
+Factorio | Feb. | 9.9 | 💗💗 |
+Superhot | Feb. | 8.0 
+Grim Dawn | Feb. | 9.0 | 💗💗 |
+The Flame In The Flood | Feb. | 7.2 
+Gnomoria | Feb. | 7.6 
+Layers of Fear | Feb. | 8.1 
+Firewatch | Feb. | 8.5 
+Naruto Shippuden 4 | Feb. | 7.3 
+Lost Castle | Feb. | 6.6 
+XCOM 2 | Feb. | 9.3 | 💗💗 |
+American Truck Simulator | Feb. | 7.4 
+
+## 2016.01
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Rise of The Tomb Raider | Jan. | 8.3 
+The Witness | Jan. | 9.7 | 💗💗 |
+Move or Die | Jan. | 7.1 
+Starward Rogue | Jan. | 7.9 
+Homeworld: Deserts of Kharak | Jan. | 7.4 
+Subterrain | Jan. | 7.3 
+Infra | Jan. | 9.1 | 💗💗 |
+Crashlands | Jan. | 6.8 
+Scrap Mechanic | Jan. | 8.3 
+The Deadly Tower of Monsters | Jan. | 7.8 
+Darkest Dungeon | Jan. | 8.9 | 💗💗 |
+Oxenfree | Jan. | 8.7 | 💗💗 |
+Punch Club | Jan. | 6.9 
+Pony Island | Jan. | 8.5 
