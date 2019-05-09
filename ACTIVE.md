@@ -31,7 +31,7 @@ A Hat in Time: Nyakuza Metro | 05.10 | [purchased]
 Life is Strange 2: Episode 03 | 05.09 | [purchased]
 Swag and Sorcery | 05.09 | 
 Legal Dungeon | 05.06 | ?
-Rise of Industry | 05.03 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/671440/header_292x136.jpg">
+Rise of Industry | 05.03 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/671440/header_292x136.jpg">
 
 ## 2019.04
 
