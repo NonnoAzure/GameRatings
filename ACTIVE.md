@@ -9,6 +9,30 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.05
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Draugen | 05.? |
+Vambrace: Cold Soul | 05.? | 
+Conan Unconquered | 05.31 |
+Layers of Fear 2 | 05.28 | [purchased]
+Total War: Three Kingdoms | 05.23 | [purchased]
+Pathologic 2 | 05.23 | [day one]
+S.W.I.N.E. HD Remaster | 05.23 | 
+Surviving Mars: Green Planet | 05.16 | [purchased]
+House Flipper: Garden Flipper | 05.16 | [day one]
+Druidstone: The Secret of the Menhir Forest | 05.16 | 
+Road to Guangdong | 05.16 |
+Iron Marines | 05.16 | [day one]
+A Plague Tale | 05.15 | [purchased]
+Rage 2 | 05.14 |
+A Hat in Time: Nyakuza Metro | 05.10 | [purchased]
+Life is Strange 2: Episode 03 | 05.09 | [purchased]
+Swag and Sorcery | 05.09 | 
+Legal Dungeon | 05.06 | ?
+Rise of Industry | 05.03 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/671440/header_292x136.jpg">
+
 ## 2019.04
 
 Game Title|Released Date|Rating|Favorite|Captain
@@ -200,6 +224,7 @@ Two Point Hospital | 08. | 8.0
 Strange Brigade | 08. | 
 The Universim | 08. | 7.7
 Phantom Doctrine | 08. | 
+ShadowSide | 08.18 | 5.8 
 Forged Battalion | 08. | 6.3 
 Death's Gambit | 08. | 7.5 
 We Happy Few | 08. | 8.0 
