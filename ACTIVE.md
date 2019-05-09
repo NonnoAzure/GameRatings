@@ -22,7 +22,7 @@ Pathologic 2 | 05.23 | [day one]
 S.W.I.N.E. HD Remaster | 05.23 | 
 Surviving Mars: Green Planet | 05.16 | [purchased]
 House Flipper: Garden Flipper | 05.16 | [day one]
-Druidstone: The Secret of the Menhir Forest | 05.16 | 
+Druidstone | 05.16 | 
 Road to Guangdong | 05.16 |
 Iron Marines | 05.16 | [day one]
 A Plague Tale | 05.15 | [purchased]
