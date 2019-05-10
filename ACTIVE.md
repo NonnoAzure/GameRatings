@@ -295,7 +295,7 @@ Minit | 04. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Long Gone Days | 03. | 7.0 
+Long Gone Days | 03. | 7.1 
 Ni no Kuni II: Revenant Kingdom | 03. | 7.3
 Far Cry 5 | 03. | 8.3
 Through the Ages | 03. | 8.0 
@@ -305,6 +305,7 @@ Ghost of a Tale | 03. | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/s
 Northgard | 03. | 7.6 
 Final Fantasy XV | 03. | 8.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/637650/header_292x136.jpg">
 Pit People | 03. | 9.0 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/291860/header_292x136.jpg">
+Rise of Insanity | 03.08 | 7.0
 Guns, Gore and Cannoli 2 | 03.02 | 7.6
 Where the Water Tastes Like Wine | 03. | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/447120/header_292x136.jpg">
 
