@@ -189,7 +189,7 @@ Assassin's Creed: Odyssey | 10.5 | 9.1 | 💙 | <img src="https://steamcdn-a.aka
 Nimbatus | 10.4
 The Midnight Sanctuary | 10.4 | 5.9
 NITE Team 4 | 10.3
-Visage | 10.2 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/594330/header_292x136.jpg">
+Visage | 10.2 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/594330/header_292x136.jpg">
 Mega Man 11 | 10.2
 
 ---
