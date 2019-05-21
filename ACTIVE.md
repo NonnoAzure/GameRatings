@@ -380,21 +380,21 @@ The Norwood Suite | Oct. | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.ne
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Legend of Hand | Sep. | 7.8 
-Cuphead | Sep. | 9.2 | 💗💗 |
-Total War: Warhammer 2 | Sep. | 8.9 | 💙 |
-Figment | Sep. | 7.9 
+Legend of Hand | Sep. | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/595560/header_292x136.jpg">
+Cuphead | Sep. | 9.2 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/268910/header_292x136.jpg">
+Total War: Warhammer 2 | Sep. | 8.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/594570/header_292x136.jpg">
+Figment | Sep. | 7.8 
 Echo | Sep. | 7.3 
 Muv-Luv Alternative | Sep. | 8.5 
 Ruiner | Sep. | 7.7 
-Hob | Sep. | 8.0 | 💙 |
+Hob | Sep. | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/404680/header_292x136.jpg">
 HIVESWAP | Sep. | 6.0 
 Cook, Serve, Delicious! 2 | Sep. | 7.5 
 NBA 2K18 | Sep. | 7.8 
 3030 Deathwar Redux | Sep. | 7.9 
-Heat Signature | Sep. | 9.1 | 💗💗 |
-Dishonored: Death of the Outsider | Sep. | 8.6 | 💙 |
-Divinity: Original Sin 2 | Sep. | 9.7 | 💗💗 |
+Heat Signature | Sep. | 9.1 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/268130/header_292x136.jpg">
+Dishonored: Death of the Outsider | Sep. | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/614570/header_292x136.jpg">
+Divinity: Original Sin 2 | Sep. | 9.7 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/435150/header_292x136.jpg">
 Tooth and Tail | Sep. | 8.4 
 Age of Fear 3: The Legend | Sep. | 7.5 
 
