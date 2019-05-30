@@ -13,14 +13,18 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Draugen | 05.? | [day one]
-Vambrace: Cold Soul | 05.? | 
+SteamWorld Quest: Hand of Gilgamech | 05.31 | [day one]
 Conan Unconquered | 05.31 |
-Layers of Fear 2 | 05.28 | [purchased]
-Total War: Three Kingdoms | 05.23 | [purchased]
-Pathologic 2 | 05.23 | [purchased]
-S.W.I.N.E. HD Remaster | 05.23 | 
-Cities: Skylines: Campus | 05.21 | 
+Draugen | 05.30 | 
+Void Bastards | 05.29 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
+Between the Stars | 05.28 | 
+Layers of Fear 2 | 05.28 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
+Pathologic 2 | 05.23 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/505230/header_292x136.jpg">
+Total War: Three Kingdoms | 05.23 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/779340/header_292x136.jpg">
+S.W.I.N.E. HD Remaster | 05.23 | 7.2
+Cities: Skylines: Campus | 05.21 |
+American Fugitive | 05.21 | 
+Hell is Other Demons | 05.20 | 
 Surviving Mars: Green Planet | 05.16 | 7.2
 House Flipper: Garden Flipper | 05.16 | 7.4
 Druidstone | 05.15 | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/954650/header_292x136.jpg">
