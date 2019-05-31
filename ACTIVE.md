@@ -13,8 +13,9 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-SteamWorld Quest: Hand of Gilgamech | 05.31 | [day one] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
+SteamWorld Quest: Hand of Gilgamech | 05.31 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
 Conan Unconquered | 05.31 |
+Answer Knot | 05.31 | 6.1
 Draugen | 05.30 | 
 It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/697550/header_292x136.jpg">
 Void Bastards | 05.29 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
@@ -25,6 +26,7 @@ Total War: Three Kingdoms | 05.23 | 8.4 | 💙 | <img src="https://steamcdn-a.ak
 S.W.I.N.E. HD Remaster | 05.23 | 7.2
 Cities: Skylines: Campus | 05.21 |
 American Fugitive | 05.21 | 
+missed messages. | 05.20 | 6.3
 Hell is Other Demons | 05.20 | 
 Surviving Mars: Green Planet | 05.16 | 7.2
 House Flipper: Garden Flipper | 05.16 | 7.4
