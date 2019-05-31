@@ -13,9 +13,10 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-SteamWorld Quest: Hand of Gilgamech | 05.31 | [day one]
+SteamWorld Quest: Hand of Gilgamech | 05.31 | [day one] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
 Conan Unconquered | 05.31 |
 Draugen | 05.30 | 
+It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/697550/header_292x136.jpg">
 Void Bastards | 05.29 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
 Between the Stars | 05.28 | 
 Layers of Fear 2 | 05.28 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
@@ -287,7 +288,6 @@ Pillars of Eternity II: Deadfire | 05. | 9.1 | 💙 | <img src="https://steamcdn
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-It Lurks Below | 04. | 8.3
 Monster Prom | 04. | 7.4
 The Swords of Ditto | 04. | 7.2 
 The Spatials: Galactology | 04. | 7.1
