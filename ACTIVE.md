@@ -20,7 +20,7 @@ Draugen | 05.30 |
 It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/697550/header_292x136.jpg">
 Void Bastards | 05.29 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
 Between the Stars | 05.28 | 
-Layers of Fear 2 | 05.28 | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
+Layers of Fear 2 | 05.28 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
 Pathologic 2 | 05.23 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/505230/header_292x136.jpg">
 Total War: Three Kingdoms | 05.23 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/779340/header_292x136.jpg">
 S.W.I.N.E. HD Remaster | 05.23 | 7.2
@@ -32,7 +32,7 @@ Surviving Mars: Green Planet | 05.16 | 7.2
 House Flipper: Garden Flipper | 05.16 | 7.4
 Druidstone | 05.15 | 8.5 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/954650/header_292x136.jpg">
 Iron Marines | 05.15 | 
-A Plague Tale | 05.14 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/752590/header_292x136.jpg">
+A Plague Tale | 05.14 | 7.8 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/752590/header_292x136.jpg">
 Thea 2: The Shattering | 05.13 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/606230/header_292x136.jpg">
 Rage 2 | 05.13 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/548570/header_292x136.jpg">
 A Hat in Time: Nyakuza Metro | 05.10 | 7.8
