@@ -21,7 +21,7 @@ It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/
 Void Bastards | 05.29 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
 Between the Stars | 05.28 | 
 Layers of Fear 2 | 05.28 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
-Pathologic 2 | 05.23 | [purchased] | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/505230/header_292x136.jpg">
+Pathologic 2 | 05.23 | [purchased] | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/505230/header_292x136.jpg">
 Total War: Three Kingdoms | 05.23 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/779340/header_292x136.jpg">
 S.W.I.N.E. HD Remaster | 05.23 | 7.2
 Cities: Skylines: Campus | 05.21 |
