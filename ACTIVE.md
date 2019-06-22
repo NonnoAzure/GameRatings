@@ -9,18 +9,39 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.06
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+soko loco deluxe | 06.? | [day one]
+Dota Underlords | 06.21 | 
+My Friend Pedro | 06.21 | [purchased]
+Amid Evil | 06.21 | [purchased]
+They Are Billions | 06.18 |
+Bloodstained: Ritual of the Night | 06.18 |
+Duck Season PC | 06.17 | [purchased]
+SpaceEngine | 06.11 | not a game
+Tennis Elbow Manager 2 | 06.09 |
+Octopath Traveler | 06.08 |
+Cooking Simulator | 06.07 |
+Overcrowd: A Commute 'Em Up | 06.06 | [purchased]
+Road to Guangdong | 06.06 | 
+TheoTown | 06.05 | [purchased]
+Trover Saves the Universe | 06.05 | 
+Barotrauma | 06.05 | 
+
 ## 2019.05
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-SteamWorld Quest: Hand of Gilgamech | 05.31 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
+SteamWorld Quest: Hand of Gilgamech | 05.31 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
 Conan Unconquered | 05.31 | 5.7 | 💩 |
 Answer Knot | 05.31 | 6.1
 Draugen | 05.30 | 
 It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/697550/header_292x136.jpg">
 Void Bastards | 05.29 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/857980/header_292x136.jpg">
 Between the Stars | 05.28 | 
-Layers of Fear 2 | 05.28 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
+Layers of Fear 2 | 05.28 | 7.7 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1029890/header_292x136.jpg">
 Pathologic 2 | 05.23 | [purchased] | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/505230/header_292x136.jpg">
 Total War: Three Kingdoms | 05.23 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/779340/header_292x136.jpg">
 S.W.I.N.E. HD Remaster | 05.23 | 7.2
@@ -176,14 +197,14 @@ The Shapeshifting Detective | 11.06 | 6.9
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Call of Cthulhu | 10.31 | 8.1
-Project Hospital | 10.31 | 7.9
+Call of Cthulhu | 10.31 | 8.0
+Project Hospital | 10.31 | 7.8
 Red Dead Redemption 2 | 10.26
 Party Hard 2 | 10.25
 Do Not Feed the Monkeys | 10.23 | 8.3
 Viviette | 10.18
 Return of the Obra Dinn | 10.18 | 9.6 | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/653530/header_292x136.jpg">
-Kingdom Rush Origins | 10.18 | 8.0 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/816340/header_292x136.jpg">
+Kingdom Rush Origins | 10.18 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/816340/header_292x136.jpg">
 Infliction | 10.18 | 6.9
 The Hex | 10.17 | 8.4 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/510420/header_292x136.jpg">
 God's Basement | 10.17 | 6.0
