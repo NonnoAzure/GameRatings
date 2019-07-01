@@ -13,12 +13,11 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-soko loco deluxe | 06.? | [day one]
 Dota Underlords | 06.21 | 
 My Friend Pedro | 06.21 | [purchased]
 Amid Evil | 06.21 | [purchased]
 They Are Billions | 06.18 |
-Bloodstained: Ritual of the Night | 06.18 |
+Bloodstained: Ritual of the Night | 06.18 | [purchased]
 Duck Season PC | 06.17 | [purchased]
 SpaceEngine | 06.11 | not a game
 Tennis Elbow Manager 2 | 06.09 |
