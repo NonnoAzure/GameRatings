@@ -1,7 +1,6 @@
-# My Subjective Ratings of PC Games
+# My List of Archived PC Games 
 
 - Ordered by released date.
-- Extremly subjective!
 - Only list games I owned and played.
 
 ### What's the purpose of this?
