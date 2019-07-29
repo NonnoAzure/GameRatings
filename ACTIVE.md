@@ -9,6 +9,30 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.07
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Kindergarten 2 | 07.? | 
+Mutant Year Zero: Seed of Evil | 07.30 |
+WolfQuest: Anniversary Edition | 07.26 | 
+KILL la KILL -IF | 07.26 | 
+Wolfenstein: Youngblood | 07.26 | 
+Tech Corp | 07.25 |
+Monster Boy and the Cursed Kingdom | 07.25 | 
+Songbird Symphony | 07.25 | 
+Iratus: Lord of the Dead | 07.24 |
+Automachef | 07.24 |
+Vane | 07.23 |
+Swords & Souls: Neverseen | 07.23 |
+lsinore | 07.23 |
+Founders' Fortune | 07.20 |
+Nowhere Prophet | 07.19 |
+Etherborn | 07.18 |
+Night Call | 07.18 |
+Break the Game | 07.16 |
+Godhood | 07.11 |
+
 ## 2019.06
 
 Game Title|Released Date|Rating|Favorite|Captain
