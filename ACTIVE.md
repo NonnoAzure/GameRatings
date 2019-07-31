@@ -12,43 +12,44 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Kindergarten 2 | 07.? | 
-Mutant Year Zero: Seed of Evil | 07.30 |
+A Short Hike | 07.30 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1055540/header_292x136.jpg">
+Kindergarten 2 | 07.30 | 
+Mutant Year Zero: Seed of Evil | 07.30 | 
 WolfQuest: Anniversary Edition | 07.26 | 
 KILL la KILL -IF | 07.26 | 
 Wolfenstein: Youngblood | 07.26 | 
-Tech Corp | 07.25 |
+Tech Corp | 07.25 | 
 Monster Boy and the Cursed Kingdom | 07.25 | 
 Songbird Symphony | 07.25 | 
-Iratus: Lord of the Dead | 07.24 |
-Automachef | 07.24 |
-Vane | 07.23 |
+Iratus: Lord of the Dead | 07.24 | 
+Automachef | 07.24 | 
+Vane | 07.23 | 
 Swords & Souls: Neverseen | 07.23 |
-lsinore | 07.23 |
-Founders' Fortune | 07.20 |
-Nowhere Prophet | 07.19 |
+lsinore | 07.23 | 
+Founders' Fortune | 07.20 | 
+Nowhere Prophet | 07.19 | 
 Etherborn | 07.18 |
 Night Call | 07.18 |
 Break the Game | 07.16 |
-Godhood | 07.11 |
+Godhood | 07.11 | 
 
 ## 2019.06
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Dota Underlords | 06.21 | 
-My Friend Pedro | 06.21 | [purchased]
-Amid Evil | 06.21 | [purchased]
-They Are Billions | 06.18 |
-Bloodstained: Ritual of the Night | 06.18 | [purchased]
-Duck Season PC | 06.17 | [purchased]
+Dota Underlords | 06.21 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1046930/header_292x136.jpg">
+My Friend Pedro | 06.21 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/557340/header_292x136.jpg">
+Amid Evil | 06.21 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/673130/header_292x136.jpg">
+They Are Billions | 06.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/644930/header_292x136.jpg">
+Bloodstained: Ritual of the Night | 06.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/692850/header_292x136.jpg">
+Duck Season PC | 06.17 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/746510/header_292x136.jpg">
 SpaceEngine | 06.11 | not a game
 Tennis Elbow Manager 2 | 06.09 |
 Octopath Traveler | 06.08 |
 Cooking Simulator | 06.07 |
-Overcrowd: A Commute 'Em Up | 06.06 | [purchased]
+Overcrowd: A Commute 'Em Up | 06.06 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/726110/header_292x136.jpg">
 Road to Guangdong | 06.06 | 
-TheoTown | 06.05 | [purchased]
+TheoTown | 06.05 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1084020/header_292x136.jpg">
 Trover Saves the Universe | 06.05 | 
 Barotrauma | 06.05 | 
 
