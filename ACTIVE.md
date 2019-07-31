@@ -12,6 +12,7 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
+Oxygen Not Included | 07.31 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/457140/header_292x136.jpg">
 A Short Hike | 07.30 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1055540/header_292x136.jpg">
 Kindergarten 2 | 07.30 | 
 Mutant Year Zero: Seed of Evil | 07.30 | 
