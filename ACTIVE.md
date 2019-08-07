@@ -420,6 +420,7 @@ Game Title|Released Date|Rating|Favorite|Captain
 Wolfenstein II: The New Colossus | Oct. | 8.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/612880/header_292x136.jpg">
 Assassin's Creed Origins | Oct. | 9.0 
 The Evil Within 2 | Oct. | 7.5 
+Tametsi | Oct. | - | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/709920/header_292x136.jpg">
 Cogmind | Oct. | 8.6 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/722730/header_292x136.jpg">
 ELEX | Oct. | 7.7 
 Middle-Earth: Shadow of War | Oct. | 8.3 
