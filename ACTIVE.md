@@ -59,7 +59,7 @@ Barotrauma | 06.05 |
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 SteamWorld Quest: Hand of Gilgamech | 05.31 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/804010/header_292x136.jpg">
-Conan Unconquered | 05.31 | 5.7 | 💩 |
+Conan Unconquered | 05.31 | 7.3 |  |
 Answer Knot | 05.31 | 6.1
 Draugen | 05.30 | 
 It Lurks Below | 05.29 | 8.3 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/697550/header_292x136.jpg">
