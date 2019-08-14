@@ -205,6 +205,7 @@ X4: Foundations | 12.01
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
+Epic Battle Fantasy 5 | 11.30 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/432350/header_292x136.jpg">
 Artifact | 11.29 | 8.2 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/583950/header_292x136.jpg">
 蓝宝石般的被害妄想少女 | 11.28 | 8.1 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/970510/header_292x136.jpg">
 Darksiders 3 | 11.28
