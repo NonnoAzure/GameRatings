@@ -8,6 +8,30 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+
+## 2019.08
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+soko loco deluxe | 08.? | [day one]
+Unlucky Seven | 08.31 |
+Blair Witch | 08.30 | [purchased]
+The Dark Pictures Anthology - Man of Medan | 08.30 | [purchased]
+Knights And Bikes | 08.27 | 
+Telling Lies | 08.23 | [day one]
+RAD | 08.20 | [purchased]
+Remnant: From the Ashes | 08.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/617290/header_292x136.jpg">
+DARQ | 08.15 | 
+Ion Fury | 08.15 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/562860/header_292x136.jpg">
+Dicey Dungeon | 08.14 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/861540/header_292x136.jpg">
+Eliza | 08.13 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/716500/header_292x136.jpg">
+Anodyne 2: Return to Dust | 08.13 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/877810/header_292x136.jpg">
+Total War: THREE KINGDOMS - Eight Princes | 08.08 | 
+Stone Story RPG | 08.08 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/603390/header_292x136.jpg">
+Age of Wonders: Planetfall | 08.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/718850/header_292x136.jpg">
+Metal Wolf Chaos XD | 08.06 | 
+The Church in the Darkness | 08.02 | 
+
 ## 2019.07
 
 Game Title|Released Date|Rating|Favorite|Captain
