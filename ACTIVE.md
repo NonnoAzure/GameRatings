@@ -13,14 +13,21 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-soko loco deluxe | 08.? | [day one]
 Unlucky Seven | 08.31 |
-Blair Witch | 08.30 | [purchased]
-The Dark Pictures Anthology - Man of Medan | 08.30 | [purchased]
-Knights And Bikes | 08.27 | 
-Telling Lies | 08.23 | [day one]
-RAD | 08.20 | [purchased]
+Decay of Logos | 08.30 | 
+Re:Legend | 08.30 | 
+Blair Witch | 08.30 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1092660/header_292x136.jpg">
+Wilmot's Warehouse | 08.30 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/839870/header_292x136.jpg">
+Dark Pictures Anthology: Man of Medan | 08.30 | ? | |
+Monster Sanctuary | 08.29 | 
+Minoria | 08.27 | 
+Knights And Bikes | 08.27 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/592480/header_292x136.jpg">
+Mable & The Wood | 08.24 | 
+Telling Lies | 08.23 | ? |  |
+UnderMine | 08.21 | 
+RAD | 08.20 | ? | |
 Remnant: From the Ashes | 08.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/617290/header_292x136.jpg">
+Age of Empires: Definitive Edition | 08.19 | ? | |
 DARQ | 08.15 | 
 Ion Fury | 08.15 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/562860/header_292x136.jpg">
 Dicey Dungeon | 08.14 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/861540/header_292x136.jpg">
@@ -115,7 +122,7 @@ Rise of Industry | 05.03 | 7.9 | 💙 | <img src="https://steamcdn-a.akamaihd.ne
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 UBOAT | 04.30 |
-Lorelai | 04.27 | ? | | <img src="https://steamcdn-a.akamaihd.net/steam/apps/593960/header_292x136.jpg">
+Lorelai | 04.27 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/593960/header_292x136.jpg">
 Imperator Rome | 04.26 | ?
 Dark Devotion| 04.25 |
 Mortal Kombat 11 | 04.24 |
