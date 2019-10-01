@@ -21,7 +21,7 @@ Noita | 09.24 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/
 Cat Quest 2 | 09.24 | 
 Police Stories | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/539470/header_292x136.jpg">
 Overland | 09.20 | ?
-Hot Lava | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/382560/header_292x136.jpg">
+Hot Lava | 09.20 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/382560/header_292x136.jpg">
 Mutazione | 09.19 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1080750/header_292x136.jpg">
 Jenny LeClue - Detectivu | 09.19 | 
 Crying Suns | 09.19 | ?
@@ -530,7 +530,7 @@ Life is Strange: Before the Storm | Aug. | 7.7
 Observer | Aug. | 8.9 | 💗💗 |
 Ken Follett's The Pillars of the Earth | Aug. | 6.8 
 West of Loathing | Aug. | 9.0 | 💗💗 |
-Darkwood | Aug. | 8.3 | 💙 |
+Darkwood | Aug. | ? | 💗💗 |
 Sudden Strike 4 | Aug. | 7.2 
 Rez Infinite | Aug. | 8.6 | 💙 |
 Hellblade: Senua's Sacrifice | Aug. | 8.4 | 💙 |
@@ -617,7 +617,7 @@ Zero Escape: The Nonary Games | Mar. | 8.6
 The Crow's Eye | 03.20 | 5.6 
 Battle Brothers | Mar. | 8.8 | 💙 |
 Beat Cop | Mar. | 6.6 
-Rain World | Mar. | 8.1 | 💙 |
+Rain World | Mar. | ? | 💗💗 |
 Kona | Mar. | 7.6 | 💙 |
 Mass Effect : Andromeda (EA) | Mar. | 8.0 
 Tom Clancy's Ghost Recon Wildlands | Mar. | 8.6 | 💗💗 |
