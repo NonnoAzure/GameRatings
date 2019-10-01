@@ -21,7 +21,7 @@ Noita | 09.24 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/
 Cat Quest 2 | 09.24 | 
 Police Stories | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/539470/header_292x136.jpg">
 Overland | 09.20 | ?
-Hot Lava | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/539470/header_292x136.jpg">
+Hot Lava | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/382560/header_292x136.jpg">
 Mutazione | 09.19 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1080750/header_292x136.jpg">
 Jenny LeClue - Detectivu | 09.19 | 
 Crying Suns | 09.19 | ?
