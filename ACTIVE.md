@@ -8,6 +8,44 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.09
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Necrobarista | ? | [day one]
+Mindustry | 09.27 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1127400/header_292x136.jpg">
+Code Vein | 09.27 | 
+Flotsam | 09.26 | 
+The Surge 2 | 09.25 | 
+Noita | 09.24 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/881100/header_292x136.jpg">
+Cat Quest 2 | 09.24 | 
+Police Stories | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/539470/header_292x136.jpg">
+Overland | 09.20 | ?
+Hot Lava | 09.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/539470/header_292x136.jpg">
+Mutazione | 09.19 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1080750/header_292x136.jpg">
+Jenny LeClue - Detectivu | 09.19 | 
+Crying Suns | 09.19 | ?
+Trailmakers | 09.18 | 
+Later Alligator | 09.18 | ?
+Little Misfortune | 09.18 | 
+Football Drama | 09.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/876190/header_292x136.jpg">
+AI: The Somnium Files | 09.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/948740/header_292x136.jpg">
+Rebel Cops | 09.18 | 
+Session | 09.17 | 
+Daymare: 1998 | 09.17 | 
+Nauticrawl | 09.17 | ?
+Borderlands 3 | 09.13 | ?
+GreedFall | 09.10 | ?
+Gears of War 5 | 09.10 | ? 
+Blasphemous | 09.10 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774361/header_292x136.jpg">
+NBA 2K20 | 09.07 | 
+Creature in the Well | 09.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/852300/header_292x136.jpg">
+macdows 95 | 09.06 | ?
+Sin Slayers | 09.06 | 
+Green Hell | 09.05 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/815370/header_292x136.jpg">
+Warsaw | 09.05 | 
+Spyro Reignited Trilogy | 09.04 | 
+Children of Morta | 09.03 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/330020/header_292x136.jpg">
 
 ## 2019.08
 
@@ -26,7 +64,7 @@ Mable & The Wood | 08.24 |
 Telling Lies | 08.23 | ? |  |
 UnderMine | 08.21 | 
 RAD | 08.20 | ? | |
-Remnant: From the Ashes | 08.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/617290/header_292x136.jpg">
+Remnant: From the Ashes | 08.20 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/617290/header_292x136.jpg">
 Age of Empires: Definitive Edition | 08.19 | ? | |
 DARQ | 08.15 | 
 Ion Fury | 08.15 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/562860/header_292x136.jpg">
@@ -59,7 +97,7 @@ Vane | 07.23 |
 Swords & Souls: Neverseen | 07.23 |
 lsinore | 07.23 | 
 Founders' Fortune | 07.20 | 
-Nowhere Prophet | 07.19 | 
+Nowhere Prophet | 07.19 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/681730/header_292x136.jpg">
 Etherborn | 07.18 |
 Night Call | 07.18 |
 Break the Game | 07.16 |
