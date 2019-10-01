@@ -96,7 +96,7 @@ Automachef | 07.24 |
 Vane | 07.23 | 
 Swords & Souls: Neverseen | 07.23 |
 lsinore | 07.23 | 
-Founders' Fortune | 07.20 | 
+Founders' Fortune | 07.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1104330/header_292x136.jpg">
 Nowhere Prophet | 07.19 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/681730/header_292x136.jpg">
 Etherborn | 07.18 |
 Night Call | 07.18 |
