@@ -8,6 +8,19 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.10
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Lonely Mountain Downhill | 10.23 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/711540/header_292x136.jpg">
+AI War 2 | 10.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header_292x136.jpg">
+Tangle Tower | 10.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/359510/header_292x136.jpg">
+The Beast Inside | 10.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/792300/header_292x136.jpg">
+Disco Elysium | 10.16 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632470/header_292x136.jpg">
+Rebel Inc | 10.15 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1088790/header_292x136.jpg">
+Rise to Ruins | 10.15 | ?
+Spirits Abyss | 10.07 | ?
+
 ## 2019.09
 
 Game Title|Released Date|Rating|Favorite|Captain
@@ -59,7 +72,7 @@ Wilmot's Warehouse | 08.30 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.ne
 Dark Pictures Anthology: Man of Medan | 08.30 | ? | |
 Monster Sanctuary | 08.29 | 
 Minoria | 08.27 | 
-Knights And Bikes | 08.27 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/592480/header_292x136.jpg">
+Knights And Bikes | 08.27 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/592480/header_292x136.jpg">
 Mable & The Wood | 08.24 | 
 Telling Lies | 08.23 | ? |  |
 UnderMine | 08.21 | 
