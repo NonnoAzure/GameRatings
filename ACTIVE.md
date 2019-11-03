@@ -19,7 +19,7 @@ The Beast Inside | 10.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/
 Disco Elysium | 10.16 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632470/header_292x136.jpg">
 Rebel Inc | 10.15 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1088790/header_292x136.jpg">
 Rise to Ruins | 10.15 | ?
-Spirits Abyss | 10.07 | ?
+Spirits Abyss | 10.07 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1078200/header_292x136.jpg">
 
 ## 2019.09
 
