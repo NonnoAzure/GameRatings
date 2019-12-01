@@ -13,7 +13,7 @@ I'd like to find a certain way to record and order all games I owned and played 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
 Sniper Ghost Warrior Contracts | 11.23 | 
-WRATH: Aeon of Ruin | 11.23 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1000410/header_292x136.jpg">
+WRATH: Aeon of Ruin | 11.23 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1000410/header_292x136.jpg">
 Lost Ember | 11.22 | ? | 
 Black Future '88 | 11.22 | 
 Bug Fables | 11.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1082710/header_292x136.jpg">
