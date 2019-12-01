@@ -52,7 +52,6 @@ Spirits Abyss | 10.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/ste
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
-Necrobarista | ? | [day one]
 Mindustry | 09.27 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1127400/header_292x136.jpg">
 Code Vein | 09.27 | 
 Flotsam | 09.26 | 
@@ -73,14 +72,14 @@ AI: The Somnium Files | 09.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd
 Rebel Cops | 09.18 | 
 Session | 09.17 | 
 Daymare: 1998 | 09.17 | 
-Nauticrawl | 09.17 | ?
+Nauticrawl | 09.17 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/922100/header_292x136.jpg">
 Borderlands 3 | 09.13 | ?
 GreedFall | 09.10 | ?
 Gears of War 5 | 09.10 | ? 
 Blasphemous | 09.10 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/774361/header_292x136.jpg">
 NBA 2K20 | 09.07 | 
 Creature in the Well | 09.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/852300/header_292x136.jpg">
-macdows 95 | 09.06 | ?
+macdows 95 | 09.06 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/948900/header_292x136.jpg">
 Sin Slayers | 09.06 | 
 Green Hell | 09.05 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/815370/header_292x136.jpg">
 Warsaw | 09.05 | 
@@ -105,7 +104,7 @@ Telling Lies | 08.23 | ? |  |
 UnderMine | 08.21 | 
 RAD | 08.20 | ? | |
 Remnant: From the Ashes | 08.20 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/617290/header_292x136.jpg">
-Age of Empires: Definitive Edition | 08.19 | ? | |
+Age of Empires: DE | 08.19 | ? | 
 DARQ | 08.15 | 
 Ion Fury | 08.15 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/562860/header_292x136.jpg">
 Dicey Dungeon | 08.14 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/861540/header_292x136.jpg">
@@ -114,6 +113,7 @@ Anodyne 2: Return to Dust | 08.13 | ? | 💙 | <img src="https://steamcdn-a.akam
 Total War: THREE KINGDOMS - Eight Princes | 08.08 | 
 Stone Story RPG | 08.08 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/603390/header_292x136.jpg">
 Age of Wonders: Planetfall | 08.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/718850/header_292x136.jpg">
+Cliff Empire | 08.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/809140/header_292x136.jpg">
 Metal Wolf Chaos XD | 08.06 | 
 The Church in the Darkness | 08.02 | 
 
