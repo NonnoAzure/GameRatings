@@ -8,18 +8,45 @@ I'd like to find a certain way to record and order all games I owned and played 
 
 ---
 
+## 2019.11
+
+Game Title|Released Date|Rating|Favorite|Captain
+:-|:-:|:-:|:-:|:-:
+Sniper Ghost Warrior Contracts | 11.23 | 
+WRATH: Aeon of Ruin | 11.23 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1000410/header_292x136.jpg">
+Lost Ember | 11.22 | ? | 
+Black Future '88 | 11.22 | 
+Bug Fables | 11.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1082710/header_292x136.jpg">
+Still There | 11.20 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1063490/header_292x136.jpg">
+STAR WARS Jedi: Fallen Order | 11.15 | 
+Spire of Sorcery | 11.15 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/637050/header_292x136.jpg">
+Sparklite | 11.15 | 
+Age of Empires II: DE | 11.15 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/813780/header_292x136.jpg">
+Blacksad: Under the Skin | 11.15 | 
+Soko Loco Deluxe | 11.14 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1003730/header_292x136.jpg">
+Wildermyth | 11.14 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/763890/header_292x136.jpg">
+Unity of Command 2 | 11.13 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/809230/header_292x136.jpg">
+The Legend of Bum-Bo | 11.12 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1148650/header_292x136.jpg">
+Planet Zoo | 11.06 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/703080/header_292x136.jpg">
+Molek-Syntez | 11.05 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1168880/header_292x136.jpg">
+Village Monsters | 11.03 | 
+
+
 ## 2019.10
 
 Game Title|Released Date|Rating|Favorite|Captain
 :-|:-:|:-:|:-:|:-:
+Brume | 10.31 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1119800/header_292x136.jpg">
 Lonely Mountain Downhill | 10.23 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/711540/header_292x136.jpg">
+Spin Rhythm XD | 10.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1058830/header_292x136.jpg">
 AI War 2 | 10.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/573410/header_292x136.jpg">
 Tangle Tower | 10.22 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/359510/header_292x136.jpg">
 The Beast Inside | 10.18 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/792300/header_292x136.jpg">
 Disco Elysium | 10.16 | ? | 💗💗 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/632470/header_292x136.jpg">
+Out Buddies | 10.16 | ? |
 Rebel Inc | 10.15 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1088790/header_292x136.jpg">
 Rise to Ruins | 10.15 | ?
-Spirits Abyss | 10.07 | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1078200/header_292x136.jpg">
+Spirits Abyss | 10.07 | ? | 💙 | <img src="https://steamcdn-a.akamaihd.net/steam/apps/1078200/header_292x136.jpg">
 
 ## 2019.09
 
